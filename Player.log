@@ -1,0 +1,3292 @@
+Mono path[0] = 'D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'D:/SteamLibrary/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4070 Ti (ID=0x2782)
+    Vendor:   
+    VRAM:     11996 MB
+    Driver:   32.0.15.7628
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.064 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.637100 ms
+RimWorld 1.5.4409 rev1120
+Mod Wood's Muzzle Flash for Ancient urban ruins has a dependency (issaczhuang.muzzleflash) with empty display name. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod Wood's Muzzle Flash for Ancient urban ruins dependency (issaczhuang.muzzleflash) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod Wood's Muzzle Flash for Ancient urban ruins has a dependency (xmb.ancienturbanruins.mo) with empty display name. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod Wood's Muzzle Flash for Ancient urban ruins dependency (xmb.ancienturbanruins.mo) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod RimThunder Functional Furniture Expanded dependency (RimThunder.Core) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod Henshin-Mechanoid Armor dependency (akreedz.henshincoremod) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod Mashed's Ashlands_zh dependency (SirMashedPotato.Ashlands) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod Lost Forest dependency (RimWorldsoudanzyo.ResourcePackCore) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002848DC21600.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284911CF1E0.dll
+Prepatcher: Starting... (vanilla load took 2.499839s)
+Performance Fish!!!
+Performance Fish finished applying prepatches in 1.2767305 seconds
+Prepatcher: Game processing took 1578.1773ms
+Prepatcher: Serializing patched assemblies
+Prepatcher: Serializing took 810.5112ms
+Prepatcher: Setting refonly
+Prepatcher: Loading patched assemblies
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BCBE8040.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BD8A7040.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493DAE030.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493DBCC40.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002849369A020.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493DCA850.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493DD6A60.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493E26A70.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493EB9A80.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493EEC090.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002848DD9BC90.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493EF98A0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493F072B0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493164010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493F0D0C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002848A08C050.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284932AB710.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284932AED20.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493F910D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493F936E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493F966F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493F99500.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493F9CF10.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493FA1520.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493FA8B30.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493FADB40.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493FB3B50.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDAD0080.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDAF8690.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002849181B020.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493FB7D60.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493FBB970.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDB2FAA0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDB59CB0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002848A090060.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028490A56010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDB6BAD0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493FD3180.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BEAA4040.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDB834F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDB86100.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDB8C510.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDBB4720.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDBF8D40.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDBFC750.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493D958A0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDC17960.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDC1A770.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDC23180.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDC4AF90.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDC551A0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDC619B0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDC63DC0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDC67DD0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDC6D3E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493D06630.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDC737F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDCCC400.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDCCE810.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDCDBA20.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493D9F8E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493D9A8C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDCDF430.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDCED440.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDCF2050.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDCF9060.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDD06070.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002848DD9E4B0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDD15E80.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493FDCF90.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDD25890.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDD322A0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDD38EB0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDD524C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDDA38D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDDAAAE0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDDB70F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDDBD710.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDDC6B30.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDDD3740.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDDD8750.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDDE1B60.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDE03370.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDE11580.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDE12F90.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002848D950840.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDE177A0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDE199B0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDE1FDC0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDE4FFD0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDE53FE0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDE617F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDE86C00.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDE8CA10.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDE90A20.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDE93430.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002848DD99470.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDE9E440.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDEA7250.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDEC6260.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDECC670.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDECEA80.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDED8A90.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDEE02A0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDEE96C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDEEFAD0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDEF54E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDEFA8F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDEFE700.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDF03310.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDF0A920.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDF16D30.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284911F8740.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDF18B40.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDF1BB50.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDF28960.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDF33370.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDF3E990.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDF63DA0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDF8CBB0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDFA7010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDFCE020.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493D9D0D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDFCFA30.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493D166B0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BDFD4840.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE008460.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE00D270.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE036480.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE037C90.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE08F6A0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE0BF010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE0C7620.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE11A630.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE11BC40.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE141450.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE182260.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE1B7270.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE1BC480.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE1D3C90.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE2A0EA0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE2A4EB0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE3032C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE30C2D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE3998E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002848DEA80E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE4068F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE449900.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE459710.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE46BB20.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE482D30.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE4AF940.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE4C1150.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE4E0160.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002848DDA7120.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002848DDA4900.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE4E4B70.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE4E6580.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE4EB800.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE4F93A0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE557BB0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE5609C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE5A4FD0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE5AEBE0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE5CB9F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE5CD400.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE5D1410.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE5D7A20.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE5DEC30.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE5E2440.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE5EEE50.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE5F1E60.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE5FEC70.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE601080.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE64A490.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000028493D8E070.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE4E93E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE655EA0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE6604B0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE6708C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE6738D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE6750E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE67DAF0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE680700.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE689310.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002848DDA8530.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE6CB120.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE6D8B30.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE72C140.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE72EB50.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE736B70.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE767B80.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE76F990.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE772FA0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE77A1B0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE798FD0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE79ADE0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE7AABF0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002848DEA90F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE7ADA00.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE7BC610.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE7CCA20.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE7CFC30.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE7D4E40.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE4ECA10.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002848DD9F8C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002848DDA5D10.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE85E060.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE8A8010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE8B9620.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE8BB230.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE8BC840.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE8C3850.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE8C5660.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE8D3070.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE8D8A80.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE8DAC90.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE8E06A0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE8E6EB0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE8ECCC0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284BE9E50D0.dll
+Prepatcher: Done loading
+RimWorld 1.5.4409 rev1120
+Mod Wood's Muzzle Flash for Ancient urban ruins has a dependency (issaczhuang.muzzleflash) with empty display name. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod Wood's Muzzle Flash for Ancient urban ruins dependency (issaczhuang.muzzleflash) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod Wood's Muzzle Flash for Ancient urban ruins has a dependency (xmb.ancienturbanruins.mo) with empty display name. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod Wood's Muzzle Flash for Ancient urban ruins dependency (xmb.ancienturbanruins.mo) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod RimThunder Functional Furniture Expanded dependency (RimThunder.Core) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod Henshin-Mechanoid Armor dependency (akreedz.henshincoremod) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod Mashed's Ashlands_zh dependency (SirMashedPotato.Ashlands) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod Lost Forest dependency (RimWorldsoudanzyo.ResourcePackCore) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284C9AFF030.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284C9C01220.dll
+Prepatcher: Restarted with the patched assembly, going silent.
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284CF9B3010.dll
+[HugsLib] version 11.0.5
+3.0.9196 ::
+[1.3]Graphics Setter - Loaded
+DubsMintMenus v1.3.1086
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000284D0D62030.dll
+FactionCustomizer is successfully initialized!
+[Mashed's Ashlands] version 1.3.14
+1.0.8866 ::
+Tried to use an uninitialized DefOf of type TimeAssignmentDefOf. DefOfs are initialized right after all defs all loaded. Uninitialized DefOfs will return only nulls. (hint: don't use DefOfs as default field values in Defs, try to resolve them in ResolveReferences() instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Interaction Bubbles v3.1] Initialized
+PocketSand Initialized
+ICanWearThis Harmony Patches Success
+<color=#66ffb5>[MeleeAnim]</color> Hello, world!
+Build date: 11/5/2024 6:55 PM
+Loaded assemblies (11):
+0BetterFloatMenu, Version=15.0.0.0, Culture=neutral, PublicKeyToken=null,
+0ColourPicker, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null,
+AMRetextureSupport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null,
+Meta.Numerics, Version=3.1.0.0, Culture=neutral, PublicKeyToken=67d25c65a6631347,
+ModRequestAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null,
+ModRequestAPI.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null,
+Unity.Newtonsoft.Json, Version=7.0.0.0, Culture=neutral, PublicKeyToken=null,
+zAnimationMod, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null,
+AM.FacialAnimationPatch, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null,
+AM.AlienRacesPatch, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null,
+AM.TacticowlPatch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+<color=#66ffb5>[MeleeAnim]</color> Scanning 269 mods for animation data...
+<color=#66ffb5>[MeleeAnim]</color> Found 1 mod folders with animation data, total 69 loadable files.
+<color=#66ffb5>[MeleeAnim]</color> [<color=#63e0ff>Facial Animation Patch</color>] Successfully loaded Facial Animation patch.
+<color=#66ffb5>[MeleeAnim]</color> <color=#ffa8fc>[Alien Races Patch]</color> Loaded alien races patch!
+<color=#66ffb5>[MeleeAnim]</color> Initialized Tacticowl patch (currently not active)
+[StorageRefillHysteresis 0.1.6] Mod Loaded.
+Loaded What's That Mod.
+[Analyzer] ==========================================================================
+[Analyzer]                          Analyzer Running In Debug Mode                  
+[Analyzer] ==========================================================================
+ReBuild: Doors and Corners 1.2-Miller-rev4
+Parsed 0.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[DSFI] Initialized
+Parsed 0.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to use an uninitialized DefOf of type LetterDefOf. DefOfs are initialized right after all defs all loaded. Uninitialized DefOfs will return only nulls. (hint: don't use DefOfs as default field values in Defs, try to resolve them in ResolveReferences() instead) Debug info: DirectXmlToObject is currently instantiating an object of type AncotLibrary.LetterProperty 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to use an uninitialized DefOf of type SoundDefOf. DefOfs are initialized right after all defs all loaded. Uninitialized DefOfs will return only nulls. (hint: don't use DefOfs as default field values in Defs, try to resolve them in ResolveReferences() instead) Debug info: DirectXmlToObject is currently instantiating an object of type AncotLibrary.CompProperties_AbilityPlaceBuilding 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to use an uninitialized DefOf of type DamageDefOf. DefOfs are initialized right after all defs all loaded. Uninitialized DefOfs will return only nulls. (hint: don't use DefOfs as default field values in Defs, try to resolve them in ResolveReferences() instead) Debug info: DirectXmlToObject is currently instantiating an object of type AncotLibrary.CompProperties_AbilityDoExplosionOnCell 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to use an uninitialized DefOf of type ThingDefOf. DefOfs are initialized right after all defs all loaded. Uninitialized DefOfs will return only nulls. (hint: don't use DefOfs as default field values in Defs, try to resolve them in ResolveReferences() instead) Debug info: DirectXmlToObject is currently instantiating an object of type AncotLibrary.CompProperties_AbilityProjectShield 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 10.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 4.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to use an uninitialized DefOf of type BodyPartDefOf. DefOfs are initialized right after all defs all loaded. Uninitialized DefOfs will return only nulls. (hint: don't use DefOfs as default field values in Defs, try to resolve them in ResolveReferences() instead) Debug info: DirectXmlToObject is currently instantiating an object of type DMS.CompProperties_WeaponImprint 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to use an uninitialized DefOf of type DMS_DefOf. DefOfs are initialized right after all defs all loaded. Uninitialized DefOfs will return only nulls. (hint: don't use DefOfs as default field values in Defs, try to resolve them in ResolveReferences() instead) Debug info: DirectXmlToObject is currently instantiating an object of type AncientCorps.CompanyDef 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 9999999999 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to use an uninitialized DefOf of type DutyDefOf. DefOfs are initialized right after all defs all loaded. Uninitialized DefOfs will return only nulls. (hint: don't use DefOfs as default field values in Defs, try to resolve them in ResolveReferences() instead) Debug info: DirectXmlToObject is currently instantiating an object of type QuestEditor_Library.PawnSpawnData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.3 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.3 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named VFE_Shot_InfernoSpewer found to give to Verse.VerbProperties VerbProperties(flame thrower) (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Power Tweaks Skipped Defs:
+电缆 (PowerConduit) due to zero power setting.
+隐藏电缆 (HiddenConduit) due to zero power setting.
+防水电缆 (WaterproofConduit) due to zero power setting.
+电力开关 (PowerSwitch) due to zero power setting.
+蓄电池 (Battery) due to zero power setting.
+飞船结构梁 (Ship_Beam) due to zero power setting.
+飞船低温休眠舱 (Ship_CryptosleepCasket) due to zero power setting.
+飞船电脑核心 (Ship_ComputerCore) due to zero power setting.
+飞船推进器 (Ship_Engine) due to zero power setting.
+集成传感器 (Ship_SensorCluster) due to zero power setting.
+电缆 (KCSG_PowerConduit) due to zero power setting.
+天蓝蓄电池 (AA_BlueGelBattery) due to zero power setting.
+六凝蓄电池 (AA_HexaGelBattery) due to zero power setting.
+加固电缆 (LTS_ReinforcedPowerConduit) due to zero power setting.
+未来墙 (LTS_FuturisticWall) due to zero power setting.
+未来加固墙 (LTS_FuturisticReinforcedWall) due to zero power setting.
+设施缆线 (FTC_PowerConduit) due to zero power setting.
+心灵广播 (PsychicRadio) due to zero power setting.
+精密装甲墙 (GD_PrecisionWall) due to zero power setting.
+精密装甲墙 (GD_PrecisionWallEnemy) due to zero power setting.
+中型砖制楼梯（上） (MF_BrickStairsMUpA) due to zero power setting.
+中型砖制楼梯（下） (MF_BrickStairsMDownA) due to zero power setting.
+中型砖制楼梯出口 (MF_BrickStairsMExitA) due to zero power setting.
+中型扶手楼梯（上） (MF_HandrailStairsMUpA) due to zero power setting.
+中型扶手楼梯（下） (MF_HandrailStairsMDownA) due to zero power setting.
+中型扶手楼梯出口 (MF_HandrailStairsMExitA) due to zero power setting.
+小型扶手楼梯（上） (MF_HandrailStairsSUpA) due to zero power setting.
+小型扶手楼梯（下） (MF_HandrailStairsSDownA) due to zero power setting.
+小型扶手楼梯出口 (MF_HandrailStairsSExitA) due to zero power setting.
+大型梯子（上） (MF_LadderLUpA) due to zero power setting.
+大型梯子（下） (MF_LadderLDownA) due to zero power setting.
+大型梯子出口 (MF_LadderLExitA) due to zero power setting.
+小型梯子（上） (MF_LadderSUpA) due to zero power setting.
+小型梯子（下） (MF_LadderSDownA) due to zero power setting.
+小型梯子出口 (MF_LadderSExitA) due to zero power setting.
+梯子（上） (MF_UpStair) due to zero power setting.
+梯子（下） (MF_DownStair) due to zero power setting.
+梯子出口 (MF_StairExit) due to zero power setting.
+
+Key binding conflict: MainTab_History and MainTab_AM_LevelSchedule are both bound to F9. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Key binding conflict: MainTab_AM_LevelSchedule and MainTab_History are both bound to F9. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+FactionDef Milira_Faction must have at least one pawnGroupMaker with kindDef 'Peaceful', or 'permanentEnemy', 'isPlayer' or 'hidden' should be set to true. Otherwise no guests from this faction will arrive. This is a misconfiguration in Milira Race. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+FactionDef Milira_AngelismChurch must have at least one pawnGroupMaker with kindDef 'Peaceful', or 'permanentEnemy', 'isPlayer' or 'hidden' should be set to true. Otherwise no guests from this faction will arrive. This is a misconfiguration in Milira Race. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+FactionDef DMS_AncientCorps must have at least one pawnGroupMaker with kindDef 'Peaceful', or 'permanentEnemy', 'isPlayer' or 'hidden' should be set to true. Otherwise no guests from this faction will arrive. This is a misconfiguration in The Dead Man's Switch - AncientCorps. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Translation data for language Simplified Chinese has 3587 errors. Generate translation report for more info. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=orange>[KCSG]</color> Created 32454 symbolDefs for vanilla and DLCs
+[KCSG] Fortification Industrial - Citadel contains 7 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=orange>[KCSG]</color> Missing symbol: ToolCabinet_East (needed 1 times)
+<color=orange>[KCSG]</color> Missing symbol: ToolCabinet_North (needed 6 times)
+<color=orange>[KCSG]</color> Missing symbol: FT_TurretPrince_North (needed 1 times)
+<color=orange>[KCSG]</color> Missing symbol: ToolCabinet_West (needed 4 times)
+<color=orange>[KCSG]</color> Missing symbol: WallLamp_East (needed 1 times)
+<color=orange>[KCSG]</color> Missing symbol: WallLamp_West (needed 3 times)
+<color=orange>[KCSG]</color> Missing symbol: WallLamp_North (needed 3 times)
+[KCSG] The Dead Man's Switch contains 3 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=orange>[KCSG]</color> Missing symbol: AncientMechDetritus_South (needed 1 times)
+<color=orange>[KCSG]</color> Missing symbol: AncientMechDetritus_North (needed 1 times)
+<color=orange>[KCSG]</color> Missing symbol: AncientMechDetritus_East (needed 1 times)
+[KCSG] The Dead Man's Switch - AncientCorps contains 10 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=orange>[KCSG]</color> Missing symbol: ToolCabinet_East (needed 15 times)
+<color=orange>[KCSG]</color> Missing symbol: ToolCabinet_North (needed 32 times)
+<color=orange>[KCSG]</color> Missing symbol: ToolCabinet_South (needed 9 times)
+<color=orange>[KCSG]</color> Missing symbol: WallLamp_North (needed 36 times)
+<color=orange>[KCSG]</color> Missing symbol: WallLamp_South (needed 30 times)
+<color=orange>[KCSG]</color> Missing symbol: WallLamp_East (needed 25 times)
+<color=orange>[KCSG]</color> Missing symbol: ToolCabinet_West (needed 3 times)
+<color=orange>[KCSG]</color> Missing symbol: DMSAC_Cargo_West  (needed 2 times)
+<color=orange>[KCSG]</color> Missing symbol: WallLamp_West (needed 26 times)
+<color=orange>[KCSG]</color> Missing symbol: DMSAC_Building_RoadBlock_East (needed 4 times)
+[KCSG] The Dead Man's Switch - MobileDragoon contains 6 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=orange>[KCSG]</color> Missing symbol: WallLamp_North (needed 19 times)
+<color=orange>[KCSG]</color> Missing symbol: WallLamp_South (needed 4 times)
+<color=orange>[KCSG]</color> Missing symbol: WallLamp_East (needed 6 times)
+<color=orange>[KCSG]</color> Missing symbol: ToolCabinet_West (needed 3 times)
+<color=orange>[KCSG]</color> Missing symbol: ToolCabinet_North (needed 1 times)
+<color=orange>[KCSG]</color> Missing symbol: WallLamp_West (needed 1 times)
+[KCSG] Glitterworld Destroyer 4 - Mechanoid Addon contains 4 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=orange>[KCSG]</color> Missing symbol: AncientMechDetritus_North (needed 9 times)
+<color=orange>[KCSG]</color> Missing symbol: WallLamp_North (needed 4 times)
+<color=orange>[KCSG]</color> Missing symbol: WallLamp_East (needed 3 times)
+<color=orange>[KCSG]</color> Missing symbol: WallLamp_South (needed 1 times)
+[KCSG] Vanilla Base Generation Expanded contains 4 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=orange>[KCSG]</color> Missing symbol: ToolCabinet_East (needed 9 times)
+<color=orange>[KCSG]</color> Missing symbol: ToolCabinet_West (needed 5 times)
+<color=orange>[KCSG]</color> Missing symbol: ToolCabinet_North (needed 18 times)
+<color=orange>[KCSG]</color> Missing symbol: ToolCabinet_South (needed 6 times)
+[MVCF] Activating Tacticowl compatibility...
+[XML Extensions] Initialized 3 SettingsMenuDef(s) and found 196 unused key(s) from 1 mod(s)
+[XML Extensions] 3471 total patches run in 9908ms, 0 failed
+Bool Settings: [ Tweak_HabringerTweaks :: False ] [ Tweak_ReplantableHarbinger :: False ] [ Tweak_ShowGenesTab :: False ] [ Tweak_FlattenComplexity :: False ] [ Tweak_FlattenMetabolism :: False ] [ Tweak_FlattenArchites :: False ] [ Tweak_MechanitorTweaks :: False ] [ Tweak_MechanitorDisableRange :: False ] [ Tweak_PlayerMechStats :: False ] [ Tweak_PoluxTweaks :: False ] [ Tweak_ReplantablePolux :: False ] [ Tweak_IgnoreArtificialBuildings :: False ] [ Tweak_StrapsArentClothes :: False ] [ Tweak_YouLookFine :: False ] [ Tweak_DarklightGlowPods :: False ] [ Tweak_DisableDesiredApparel :: False ] [ Tweak_NoMemeLimit :: False ] [ Tweak_ProperSuppression :: False ] [ Tweak_UnlockedIdeologyBuildings :: False ] [ Tweak_GauranlenTweaks :: False ] [ Tweak_ReplantableGauranlen :: False ] [ Tweak_NoBiocoding :: False ] [ Tweak_NoDeathAcidifiers :: False ] [ Tweak_PinataDeathAcidifiers :: False ] [ Tweak_AllowAnyBuildingsInThroneRoom :: False ] [ Tweak_AllowAltarInThroneRoom :: False ] [ Tweak_DelayedRoyalty :: False ] [ Tweak_FreeMeditation :: False ] [ Tweak_NoBackstoryLimits :: False ] [ Tweak_NoTradingPermit :: False ] [ Tweak_UninstallableMechShields :: False ] [ Tweak_WaitThisIsBetter :: False ] [ Tweak_AnimaTweaks :: False ] [ Tweak_DisableAnimaScream :: False ] [ Tweak_ReplantableAnima :: False ] [ Tweak_NatureShrinesAlwaysBuildable :: False ] [ Tweak_BetterGloomlight :: False ] [ Tweak_BetterGloomlightSunlamp :: False ] [ Tweak_BetterGloomlightDarklight :: False ] [ Tweak_TraderPawnAlert :: False ] [ Tweak_OrbitalTraderAlert :: False ] [ Tweak_DisableLethalDamageThreshold :: False ] [ Tweak_HayDoesntNeedCooling :: True ] [ Tweak_UsefulGrass :: True ] [ Tweak_UsefulBushes :: True ] [ Tweak_AnimalResourceLabel :: True ] [ Tweak_DisableSpecialSkinShader :: False ] [ Tweak_BoomalopesBleedChemfuel :: False ] [ Tweak_BuildablePackedDirt :: True ] [ Tweak_MinifiableCryptosleep :: False ] [ Tweak_ChattyComms :: False ] [ Tweak_DestroyAnything :: False ] [ Tweak_DisableNarrowHeads :: False ] [ Tweak_DontPackFood :: False ] [ Tweak_FullDeconstructReturn :: False ] [ Tweak_GlowingAmbrosia :: True ] [ Tweak_GlowingHealroot :: False ] [ Tweak_GrowableAmbrosia :: False ] [ Tweak_GrowableGrass :: False ] [ Tweak_GrowableMushrooms :: False ] [ Tweak_GrowableWildBerries :: False ] [ Tweak_HealrootToXerigium :: False ] [ Tweak_HiddenWires :: True ] [ Tweak_IncidentPawnStats :: True ] [ Tweak_InfestationBlockingFloors :: True ] [ Tweak_InsultingSpreeNerf :: True ] [ Tweak_ImpassableDeepWater :: False ] [ Tweak_LagFreeLamps :: False ] [ Tweak_LowerPrisonerExpectations :: True ] [ Tweak_MegaslothToMegatherium :: False ] [ Tweak_NextRestockTimer :: False ] [ Tweak_NoBreakdowns :: False ] [ Tweak_WaterproofElectronics :: False ] [ Tweak_LowerShellLayering :: True ] [ Tweak_NoFriendShapedManhunters :: False ] [ Tweak_NFSM_PreventByNuzzleable :: False ] [ Tweak_NFSM_PreventWhenTaming :: False ] [ Tweak_TaintDisabled :: False ] [ Tweak_TaintOnRot :: False ] [ Tweak_OnlyTaintFirstLayer :: False ] [ Tweak_PrisonersDontHaveKeys :: True ] [ Tweak_PDHKPrisoners :: True ] [ Tweak_PDHKSlaves :: False ] [ Tweak_PDHKOwnDoor :: False ] [ Tweak_SlimRim :: False ] [ Tweak_SlimRimFat :: False ] [ Tweak_SlimRimHulk :: False ] [ Tweak_SlimRimThin :: False ] [ Tweak_TraitCountAdjustment :: False ] [ Tweak_AncientDeconstruction :: False ] [ Tweak_AncientDeconstructionProper :: False ] [ Tweak_AncientReconstruction :: False ] [ Tweak_DynamicPopulation :: False ] [ Tweak_DisableRaidStrat_AutoFlee :: False ] [ Tweak_DisableRaidStrat_BreachRaids :: False ] [ Tweak_DisableRaidStrat_DropPods :: True ] [ Tweak_DisableRaidStrat_SapperRaids :: False ] [ Tweak_DisableRaidStrat_SiegeRaids :: False ] [ Tweak_DisableRaidStrat_WaterRaids :: False ] [ Tweak_SkilledStoneCutting :: False ] [ Tweak_FasterSmoothing :: False ] [ Tweak_SkillTweaks :: False ] [ Tweak_HuntersCanMelee :: True ] [ Tweak_HuntersCanMeleeFisting :: True ] [ Tweak_MechanoidAdaptation :: False ] [ Tweak_PreReleaseShipParts :: True ] [ Tweak_PowerAdjusting :: False ] [ Tweak_TechTraversal_ShowTechCounter :: False ] [ Tweak_TechTraversal_Enabled :: False ] [ Tweak_TechTraversal_AlwaysLowestLevel :: False ] [ Tweak_TechTraversal_IgnoreTechprints :: False ] [ Tweak_TechTraversal_OnlyVanillaResearch :: False ] [ Tweak_MetalDoesntBurn :: False ] [ Tweak_NoMineableComponents :: False ] [ Tweak_NoMineablePlasteel :: False ] [ Tweak_OldComponentNames :: False ] [ Tweak_PrettyPreciousMetals :: True ] [ Tweak_StrongerSteel :: False ] [ Tweak_StackableChunks :: True ] [ TweakSection_Vanilla_IncidentControl :: False ] [ TweakSection_Vanilla_PennedAnimals :: False ] [ Tweak_NFSM_PreventByTrainabilityIntermediate :: True ] [ Tweak_NFSM_PreventByTrainabilityAdvanced :: True ] [ Tweak_TradeableMeals :: False ] [ Tweak_DontGenerateRelations :: False ] [ Tweak_CheaperHiddenConduits :: False ] [ Tweak_SturdierBridges :: True ] [ Tweak_RecreationalSmokeleaf :: False ]
+Int Settings: [ Tweak_MechanitorBandwidthBase :: 6 ] [ Tweak_MechanitorControlGroupBase :: 2 ] [ Tweak_BandwidthPerBandNode :: 1 ] [ Tweak_MechSkillLevel :: 10 ] [ Tweak_GauranlenMossGrowthDays :: 5 ] [ Tweak_DryadMaxCount :: 4 ] [ Tweak_DryadSpawnDays :: 8 ] [ Tweak_DryadCocoonDays :: 6 ] [ Tweak_GaumakerCocoonDays :: 6 ] [ Tweak_GaumakerPodDays :: 4 ] [ Tweak_GaumakerSeedYield :: 1 ] [ Tweak_AnimaScreamDebuff :: -6 ] [ Tweak_AnimaScreamStackLimit :: 3 ] [ Tweak_AnimaNaturalBuildingMax :: 4 ] [ Tweak_NFSM_PreventByCombatPower :: 60 ] [ Tweak_DynamicPopulation_CriticallyLow :: 0 ] [ Tweak_DynamicPopulation_Low :: 1 ] [ Tweak_DynamicPopulation_Typical :: 4 ] [ Tweak_DynamicPopulation_High :: 7 ] [ Tweak_DynamicPopulation_CriticallyHigh :: 11 ] [ Tweak_DynamicPopulation_Maximum :: 20 ] [ Tweak_SkillLossThreshold :: 0 ] [ Tweak_SkillLearningPerDay :: 4000 ] [ Tweak_StackableChunks_Stone :: 15 ] [ Tweak_StackableChunks_Slag :: 15 ] [ Tweak_PowerAdj_StandingLamp :: 30 ] [ Tweak_PowerAdj_SunLamp :: 2900 ] [ Tweak_PowerAdj_WallLamp :: 30 ] [ Tweak_PowerAdj_FloodLight :: 100 ] [ Tweak_PowerAdj_TubeTelevision :: 200 ] [ Tweak_PowerAdj_FlatscreenTelevision :: 330 ] [ Tweak_PowerAdj_MegascreenTelevision :: 450 ] [ Tweak_PowerAdj_OrbitalTradeBeacon :: 40 ] [ Tweak_PowerAdj_CommsConsole :: 200 ] [ Tweak_PowerAdj_MoisturePump :: 150 ] [ Tweak_PowerAdj_GroundPenetratingScanner :: 700 ] [ Tweak_PowerAdj_LongRangeMineralScanner :: 700 ] [ Tweak_PowerAdj_MultiAnalyzer :: 200 ] [ Tweak_PowerAdj_VitalsMonitor :: 80 ] [ Tweak_PowerAdj_WoodFiredGenerator :: -1000 ] [ Tweak_PowerAdj_ChemfuelPoweredGenerator :: -1000 ] [ Tweak_PowerAdj_WindTurbine :: -2300 ] [ Tweak_PowerAdj_SolarGenerator :: -1700 ] [ Tweak_PowerAdj_GeothermalGenerator :: -3600 ] [ Tweak_PowerAdj_WatermillGenerator :: -1100 ] [ Tweak_PowerAdj_ElectricTailoringBench :: 120 ] [ Tweak_PowerAdj_ElectricSmithy :: 210 ] [ Tweak_PowerAdj_TableMachining :: 350 ] [ Tweak_PowerAdj_ElectricStove :: 350 ] [ Tweak_PowerAdj_ElectricSmelter :: 700 ] [ Tweak_PowerAdj_BiofuelRefinery :: 170 ] [ Tweak_PowerAdj_FabricationBench :: 250 ] [ Tweak_PowerAdj_HiTechResearchBench :: 250 ] [ Tweak_PowerAdj_ElectricCrematorium :: 250 ] [ Tweak_PowerAdj_HydroponicsBasin :: 70 ] [ Tweak_PowerAdj_DeepDrill :: 200 ] [ Tweak_PowerAdj_NutrientPasteDispenser :: 200 ] [ Tweak_PowerAdj_Turret_MiniTurret :: 80 ] [ Tweak_PowerAdj_Turret_Autocannon :: 150 ] [ Tweak_PowerAdj_Turret_Sniper :: 150 ] [ Tweak_PowerAdj_Turret_FoamTurret :: 80 ] [ Tweak_PowerAdj_Turret_RocketswarmLauncher :: 150 ] [ Tweak_PowerAdj_PsychicEmanator :: 200 ] [ Tweak_PowerAdj_VanometricPowerCell :: -1000 ] [ Tweak_PowerAdj_InfiniteChemreactor :: 300 ] [ Tweak_PowerAdj_Autodoor :: 50 ] [ Tweak_PowerAdj_Heater :: 180 ] [ Tweak_PowerAdj_Cooler :: 200 ] [ Tweak_PowerAdj_UnstablePowerCell :: -400 ] [ Tweak_PowerAdj_ShipLandingBeacon :: 50 ] [ Tweak_PowerAdj_SleepAccelerator :: 50 ] [ Tweak_PowerAdj_BiosculpterPod :: 200 ] [ Tweak_PowerAdj_NeuralSupercharger :: 400 ] [ Tweak_PowerAdj_LightBall :: 60 ] [ Tweak_PowerAdj_Loudspeaker :: 150 ] [ Tweak_PowerAdj_Autobong :: 150 ] [ Tweak_PowerAdj_DeathrestCasket :: 100 ] [ Tweak_PowerAdj_Hemopump :: 100 ] [ Tweak_PowerAdj_HemogenAmplifier :: 100 ] [ Tweak_PowerAdj_GlucosoidPump :: 100 ] [ Tweak_PowerAdj_PsychofluidPump :: 100 ] [ Tweak_PowerAdj_DeathrestAccelerator :: 800 ] [ Tweak_PowerAdj_BandNode :: 300 ] [ Tweak_PowerAdj_ToxifierGenerator :: -1400 ] [ Tweak_PowerAdj_GeneAssembler :: 100 ] [ Tweak_PowerAdj_GeneBank :: 40 ] [ Tweak_PowerAdj_GeneExtractor :: 200 ] [ Tweak_PowerAdj_GrowthVat :: 200 ] [ Tweak_PowerAdj_PollutionPump :: 200 ] [ Tweak_PowerAdj_WastepackAtomizer :: 400 ] [ Tweak_PowerAdj_GeneProcessor :: 50 ] [ Tweak_PowerAdj_MechBooster :: 500 ] [ Tweak_PowerAdj_MechGestator :: 350 ] [ Tweak_PowerAdj_LargeMechGestator :: 500 ] [ Tweak_PowerAdj_SubcoreEncoder :: 50 ] [ Tweak_PowerAdj_SubcoreSoftscanner :: 150 ] [ Tweak_PowerAdj_SubcoreRipscanner :: 150 ] [ Tweak_PowerAdj_BasicRecharger :: 200 ] [ Tweak_PowerAdj_StandardRecharger :: 400 ] [ Tweak_PowerAdj_SecurityDoor :: 50 ] [ Tweak_PowerAdj_ElectricInhibitor :: 70 ] [ Tweak_PowerAdj_ProximityDetector :: 72 ] [ Tweak_PowerAdj_AtmosphericHeater :: 1500 ] [ Tweak_PowerAdj_FrenzyInducer :: 150 ] [ Tweak_PowerAdj_SleepSuppressor :: 300 ] [ Tweak_PowerAdj_BioferriteGenerator :: -4000 ] [ Tweak_PowerAdj_Electroharvester :: -2000 ] [ Tweak_PowerAdj_BioferriteShaper :: 250 ] [ Tweak_PowerAdj_SerumCentrifuge :: 380 ] [ Tweak_PowerAdj_BioferriteHarvester :: 100 ] [ Tweak_PowerAdj_Owl_Fencepost_Lamp :: 24 ] [ Tweak_PowerAdj_Owl_Heater :: 130 ] [ Tweak_PowerAdj_AA_HexagelCoreReactor :: -25000 ] [ Tweak_PowerAdj_AM_BeamcasterBandNode :: 550 ] [ Tweak_PowerAdj_AM_GreaterBandNode :: 550 ] [ Tweak_PowerAdj_AM_GreaterMechBooster :: 200 ] [ Tweak_PowerAdj_AM_MechEfficiencyBooster :: 200 ] [ Tweak_PowerAdj_AM_MechArmorBooster :: 200 ] [ Tweak_PowerAdj_AM_MechTargettingBooster :: 200 ] [ Tweak_PowerAdj_AM_MechDisruptor :: 300 ] [ Tweak_PowerAdj_AM_GreaterRecharger :: 400 ] [ Tweak_PowerAdj_HPGMHumanPowerGenerator :: -500 ] [ Tweak_PowerAdj_Table_LightEndTable :: 30 ] [ Tweak_PowerAdj_Radio_Industrial :: 120 ] [ Tweak_PowerAdj_Radio_Spacer :: 200 ] [ Tweak_PowerAdj_Joy_Arcade :: 120 ] [ Tweak_PowerAdj_Joy_InudstrialComputer :: 120 ] [ Tweak_PowerAdj_Joy_ModernComputer :: 180 ] [ Tweak_PowerAdj_Light_Streetlamp :: 60 ] [ Tweak_PowerAdj_Erin_Kotatsu :: 180 ] [ Tweak_PowerAdj_Erin_ElectricAndon :: 30 ] [ Tweak_PowerAdj_Erin_Fusuma :: 50 ] [ Tweak_PowerAdj_HologramBase :: 50 ] [ Tweak_PowerAdj_Facility_VitalsCentre :: 150 ] [ Tweak_PowerAdj_VFE_Ecosystem :: 200 ] [ Tweak_PowerAdj_VFE_Hydroponics_Tilable :: 18 ] [ Tweak_PowerAdj_VFE_Ecosystem_Tilable :: 50 ] [ Tweak_PowerAdj_VFE_Sprinkler :: 250 ] [ Tweak_PowerAdj_VeeGlight :: 10 ] [ Tweak_PowerAdj_VD_TableLamp :: 30 ] [ Tweak_PowerAdj_AtwoodAquarium :: 50 ] [ Tweak_PowerAdj_LTS_ElectricStove :: 350 ] [ Tweak_PowerAdj_LTS_FuturisticDoorOne :: 50 ] [ Tweak_PowerAdj_LTS_FuturisticDoorTwo :: 50 ] [ Tweak_PowerAdj_LTS_LargeFuturisticDoor :: 50 ] [ Tweak_PowerAdj_LTS_HangarDoor :: 50 ] [ Tweak_PowerAdj_LTS_AssymetricDoorOne :: 50 ] [ Tweak_PowerAdj_LTS_AssymetricDoorTwo :: 50 ] [ Tweak_PowerAdj_LTS_AssymetricReinforcedDoorOne :: 50 ] [ Tweak_PowerAdj_LTS_AssymetricReinforcedDoorTwo :: 50 ] [ Tweak_PowerAdj_LTS_GlassDoorS :: 50 ] [ Tweak_PowerAdj_LTS_GlassDoorM :: 50 ] [ Tweak_PowerAdj_LTS_GlassDoorL :: 50 ] [ Tweak_PowerAdj_LTS_GlassDoorSingle :: 50 ] [ Tweak_PowerAdj_LTS_AssymetricIndustrialLargeDoor :: 50 ] [ Tweak_PowerAdj_LTS_LargeIndustrialDoor :: 50 ] [ Tweak_PowerAdj_LTS_WideIndustrialLargeDoor :: 50 ] [ Tweak_PowerAdj_LTS_WideBlastDoor :: 50 ] [ Tweak_PowerAdj_LTS_TableTelevision :: 330 ] [ Tweak_PowerAdj_LTS_WallTelevision :: 330 ] [ Tweak_PowerAdj_LTS_laptop :: 200 ] [ Tweak_PowerAdj_LTS_ElectricLantern :: 20 ] [ Tweak_PowerAdj_LTS_ElectricTableLantern :: 20 ] [ Tweak_PowerAdj_LTS_Lightpost :: 30 ] [ Tweak_PowerAdj_LTS_Astrid :: 20 ] [ Tweak_PowerAdj_LTS_Vidja :: 20 ] [ Tweak_PowerAdj_LTS_FloorLight :: 20 ] [ Tweak_PowerAdj_LTS_WallLightOne :: 20 ] [ Tweak_PowerAdj_LTS_WallLightTwo :: 20 ] [ Tweak_PowerAdj_LTS_WallLightThree :: 20 ] [ Tweak_PowerAdj_LTS_GardenLightOne :: 16 ] [ Tweak_PowerAdj_LTS_GardenLightTwo :: 16 ] [ Tweak_PowerAdj_LTS_Fridge :: 100 ] [ Tweak_PowerAdj_CCol_CottageLamp :: 30 ] [ Tweak_PowerAdj_CCot_FireplaceElectric :: 200 ] [ Tweak_PowerAdj_CCol_ElectricStove :: 350 ] [ Tweak_PowerAdj_RH2_LampEndTable :: 16 ] [ Tweak_PowerAdj_RH2_Panasonic_Television :: 100 ] [ Tweak_PowerAdj_RH2_Panasonic_LCDTelevision :: 120 ] [ Tweak_PowerAdj_RH2_Xbox360_GameConsole :: 150 ] [ Tweak_PowerAdj_RH2_Floodlight_Big :: 40 ] [ Tweak_PowerAdj_RH2_MiniFloodlight :: 24 ] [ Tweak_PowerAdj_RH2_HolmoFloorLamp :: 24 ] [ Tweak_PowerAdj_RH_RadioTradeBeacon :: 50 ] [ Tweak_PowerAdj_RH2_FIRMAN3650_Generator :: -3650 ] [ Tweak_PowerAdj_RH2_DEWEY2KW_Generator :: -2000 ] [ Tweak_PowerAdj_RH2_MEP007B_Generator :: -5000 ] [ Tweak_PowerAdj_RH2_DEFENDER1_Generator :: -1000 ] [ Tweak_PowerAdj_RH2_DeskLamplight :: 20 ] [ Tweak_PowerAdj_RH2_LaptopCommsConsole :: 72 ] [ Tweak_PowerAdj_RH_MusicRadio :: 10 ] [ Tweak_PowerAdj_TW_BBQS_ElectricOven :: 350 ] [ Tweak_PowerAdj_MUS_Gothicstyle_Autodoor :: 50 ] [ Tweak_PowerAdj_MUS_Gothicstyle_CastleAutoDoor :: 100 ] [ Tweak_PowerAdj_abandoned3HSTwallLight :: 30 ] [ Tweak_PowerAdj_Og_Turret_Wall_Microwave_Turret :: 160 ] [ Tweak_PowerAdj_Og_Turret_Wall_Riot_Control_Turret :: 80 ] [ Tweak_PowerAdj_Og_Turret_Wall_Turret :: 80 ] [ Tweak_PowerAdj_ArmorRacks_MechanizedArmorRack :: 100 ] [ Tweak_PowerAdj_ArmorRacks_MendingArmorRack :: 250 ] [ Tweak_PowerAdj_FT_Turret_BunkerL :: 200 ] [ Tweak_PowerAdj_FT_Turret_BunkerM :: 200 ] [ Tweak_PowerAdj_FT_Turret_BunkerC :: 200 ] [ Tweak_PowerAdj_FT_Turret_BunkerF :: 200 ] [ Tweak_PowerAdj_FT_FuelGenerator :: -800 ] [ Tweak_PowerAdj_FT_ENIAC :: 5000 ] [ Tweak_PowerAdj_FT_AntennaTower :: 500 ] [ Tweak_PowerAdj_FT_Radio :: 50 ] [ Tweak_PowerAdj_FT_DistributionBox :: 10 ] [ Tweak_PowerAdj_FT_TableLathe :: 800 ] [ Tweak_PowerAdj_FT_TableChemistry :: 800 ] [ Tweak_PowerAdj_FT_TableConcreteMixer :: 800 ] [ Tweak_PowerAdj_FTC_Bunker_Turret :: 200 ] [ Tweak_PowerAdj_FTC_Autocannon_Bunker :: 200 ] [ Tweak_PowerAdj_FTC_AntiTank_Turret :: 200 ] [ Tweak_PowerAdj_FTC_Batterey_Turret :: 200 ] [ Tweak_PowerAdj_FTC_Mortar_Bunker :: 200 ] [ Tweak_PowerAdj_FTC_Wall_Flame :: 200 ] [ Tweak_PowerAdj_FTC_Wall_MG :: 200 ] [ Tweak_PowerAdj_FTC_Wall_AT :: 200 ] [ Tweak_PowerAdj_FTC_Wall_Howitzer :: 200 ] [ Tweak_PowerAdj_FTC_InfrasonicDecoy :: 200 ] [ Tweak_PowerAdj_FTC_SignalDecoy :: 1000 ] [ Tweak_PowerAdj_FTC_EnegryDecoy :: 1800 ] [ Tweak_PowerAdj_FT_ArcFurnace :: 1200 ] [ Tweak_PowerAdj_FT_HeavyChem :: 1500 ] [ Tweak_PowerAdj_FT_CitadelGenerator :: -5000 ] [ Tweak_PowerAdj_FT_RTG :: -500 ] [ Tweak_PowerAdj_FT_Reactor :: -10000 ] [ Tweak_PowerAdj_FT_Centrifuge :: 5000 ] [ Tweak_PowerAdj_HobbesLink_CNCMachine :: 300 ] [ Tweak_PowerAdj_HobbesLink_3DPrinter :: 440 ] [ Tweak_PowerAdj_HobbesLink_RobotAssistant :: 850 ] [ Tweak_PowerAdj_HobbesLink_Lathe :: 300 ] [ Tweak_PowerAdj_HobbesLink_Spacer_Lathe :: 600 ] [ Tweak_PowerAdj_HobbesLink_Autoclave :: 36 ] [ Tweak_PowerAdj_HobbesLink_Centrifuge :: 24 ] [ Tweak_PowerAdj_HobbesLink_LaserEngraver :: 50 ] [ Tweak_PowerAdj_HobbesLink_IndustrialOven :: 72 ] [ Tweak_PowerAdj_HobbesLink_ConveyorBelt :: 24 ] [ Tweak_PowerAdj_HobbesLink_Incinerator :: 24 ] [ Tweak_PowerAdj_HobbesLink_PersonalComputer :: 24 ] [ Tweak_PowerAdj_HobbesLink_Still :: 24 ] [ Tweak_PowerAdj_HobbesLink_Rotovape :: 72 ] [ Tweak_PowerAdj_HobbesLink_TabletopCentrifuge :: 24 ] [ Tweak_PowerAdj_HobbesLink_TabletopStove :: 24 ] [ Tweak_PowerAdj_HobbesLink_TabletopLabMachine :: 24 ] [ Tweak_PowerAdj_HobbesLink_TabletopOscilloscope :: 24 ] [ Tweak_PowerAdj_HobbesLink_TabletopLabScanner :: 24 ] [ Tweak_PowerAdj_HobbesLink_TabletopLabTubeRack :: 24 ] [ Tweak_PowerAdj_HobbesLink_TabletopLabMicroscope :: 24 ] [ Tweak_PowerAdj_HobbesLink_BotanicalEnclosure :: 150 ] [ Tweak_PowerAdj_HobbesLink_ServerRack :: 50 ] [ Tweak_PowerAdj_LightColumnMod :: 40 ] [ Tweak_PowerAdj_DarkColumnMod :: 40 ] [ Tweak_PowerAdj_OrbitalTradeColumnMod :: 60 ] [ Tweak_PowerAdj_SunColumnMod :: 3500 ] [ Tweak_PowerAdj_IceColumnMod :: 400 ] [ Tweak_PowerAdj_DetColumnMod :: 44 ] [ Tweak_PowerAdj_FlameColumnMod :: 44 ] [ Tweak_PowerAdj_EMPColumnMod :: 100 ] [ Tweak_PowerAdj_DeadColumnMod :: 100 ] [ Tweak_PowerAdj_GAB_RaksiStill :: 100 ] [ Tweak_PowerAdj_GAB_BrewingVat :: 100 ] [ Tweak_PowerAdj_VBE_SodaFountain :: 50 ] [ Tweak_PowerAdj_RGK_EndTableWithLampE :: 24 ] [ Tweak_PowerAdj_GL_TubeTelevision :: 200 ] [ Tweak_PowerAdj_RGK_FireplaceE :: 180 ] [ Tweak_PowerAdj_RGK_lampE :: 24 ] [ Tweak_PowerAdj_GL_lampE_White :: 24 ] [ Tweak_PowerAdj_RGK_Street_Lamp :: 24 ] [ Tweak_PowerAdj_RGK_Street_Lamp_SevenE :: 24 ] [ Tweak_PowerAdj_GL_Street_Lamp_White :: 24 ] [ Tweak_PowerAdj_GL_Street_Lamp_SevenE_White :: 24 ] [ Tweak_PowerAdj_GL_Wall_LampE :: 10 ] [ Tweak_PowerAdj_GL_Wall_LampE_White :: 10 ] [ Tweak_PowerAdj_JukeBox :: 250 ] [ Tweak_PowerAdj_GL_ElectricStove :: 350 ] [ Tweak_PowerAdj_GL_ElectricTailoringBench :: 120 ] [ Tweak_PowerAdj_GL_ElectricSmithy :: 210 ] [ Tweak_PowerAdj_BDMMT_Turret_AdvMiniTurret :: 100 ] [ Tweak_PowerAdj_BDMMT_Turret_Gatling :: 200 ] [ Tweak_PowerAdj_BDMMT_Turret_SniperRifle :: 120 ] [ Tweak_PowerAdj_BDMMT_Turret_Behemoth :: 800 ] [ Tweak_PowerAdj_BDMMT_Turret_Sentry :: 180 ] [ Tweak_PowerAdj_BDMMT_Turret_Guardian :: 180 ] [ Tweak_PowerAdj_BDMMT_Turret_ChargeAC :: 450 ] [ Tweak_PowerAdj_BDMMT_Turret_Ballista :: 1500 ] [ Tweak_PowerAdj_Eccentric_ArtillerySensorTower :: 250 ] [ Tweak_PowerAdj_Eccentric_ArtilleryVerticalMissileLauncher :: 250 ] [ Tweak_PowerAdj_Eccentric_ShieldGenerator :: 800 ] [ Tweak_PowerAdj_Eccentric_ShieldCapacitor :: 400 ] [ Tweak_PowerAdj_MedPodLux :: 500 ] [ Tweak_PowerAdj_MedPodStandard :: 500 ] [ Tweak_PowerAdj_MedPodAnimal :: 500 ] [ Tweak_PowerAdj_MedPodAnimalMedium :: 500 ] [ Tweak_PowerAdj_MedPodAnimalBig :: 500 ] [ Tweak_PowerAdj_Bread_MetalhorrorDetector :: 72 ] [ Tweak_PowerAdj_Miho_TableMachining :: 350 ] [ Tweak_PowerAdj_Miho_WorkAI :: 350 ] [ Tweak_PowerAdj_Miho_CelestialForge :: 10000 ] [ Tweak_PowerAdj_Miho_ShaftFurnace :: 500 ] [ Tweak_PowerAdj_Miho_UnstablePowerCell :: -9900 ] [ Tweak_PowerAdj_Miho_MechFactory :: 1000 ] [ Tweak_PowerAdj_Kiiro_TailoringBench :: 80 ] [ Tweak_PowerAdj_Kiiro_ElectricSmithy :: 80 ] [ Tweak_PowerAdj_Kiiro_MachiningBench :: 120 ] [ Tweak_PowerAdj_Milian_Gestator :: 350 ] [ Tweak_PowerAdj_Milian_Recharger :: 240 ] [ Tweak_PowerAdj_Milira_SunLightFuelPoweredGenerator :: -1500 ] [ Tweak_PowerAdj_Milira_UniversalBench :: 650 ] [ Tweak_PowerAdj_Milira_SunLightGatheringTower :: -30 ] [ Tweak_PowerAdj_VREA_AndroidStand :: 40 ] [ Tweak_PowerAdj_VREA_AndroidPartWorkbench :: 250 ] [ Tweak_PowerAdj_VREA_SubcorePolyanalyzer :: 150 ] [ Tweak_PowerAdj_VREA_AndroidCreationStation :: 350 ] [ Tweak_PowerAdj_VREA_AndroidBehavioristStation :: 250 ] [ Tweak_PowerAdj_VREA_NeutroCasket :: 40 ] [ Tweak_PowerAdj_DMS_BandNode :: 1000 ] [ Tweak_PowerAdj_DMS_MechGestatorSamll :: 500 ] [ Tweak_PowerAdj_DMS_TrashBin_Base :: 250 ] [ Tweak_PowerAdj_DMS_VerlingBird_Base :: 150 ] [ Tweak_PowerAdj_DMS_Hound_Base :: 250 ] [ Tweak_PowerAdj_DMS_Recharger :: 200 ] [ Tweak_PowerAdj_DMS_ReactionChamber :: 900 ] [ Tweak_PowerAdj_DMS_Furnace :: 2000 ] [ Tweak_PowerAdj_DMS_TableArtifuscle :: 800 ] [ Tweak_PowerAdj_DMS_TableMachinePrinter :: 1000 ] [ Tweak_PowerAdj_DMS_Turret_Tunguska :: 2500 ] [ Tweak_PowerAdj_DMS_Turret_GateKeeper :: 1000 ] [ Tweak_PowerAdj_DMS_Turret_Okhotnik :: 500 ] [ Tweak_PowerAdj_GD_BandNode :: 400 ] [ Tweak_PowerAdj_GD_CommunicationStation :: 250 ] [ Tweak_PowerAdj_GD_ShortWaveReceiver :: 200 ] [ Tweak_PowerAdj_PlayerTurret_AutoMiniTurret :: 200 ] [ Tweak_PowerAdj_PlayerTurret_AutoChargeBlaster :: 1000 ] [ Tweak_PowerAdj_PlayerTurret_AutoInferno :: 1000 ] [ Tweak_PowerAdj_PlayerTurret_EMPArtillery :: 1000 ] [ Tweak_PowerAdj_PlayerTurret_AutoMortar :: 1000 ] [ Tweak_PowerAdj_PlayerTurret_LandingAutoMortar :: 400 ] [ Tweak_PowerAdj_PlayerTurret_GiantChargeBlaster :: 10000 ] [ Tweak_PowerAdj_ToiletAdvStuff :: 72 ] [ Tweak_PowerAdj_ShowerAdvStuff :: 72 ] [ Tweak_PowerAdj_HotTub :: 500 ] [ Tweak_PowerAdj_DBHSaunaHeaterElec :: 1000 ] [ Tweak_PowerAdj_HC_SlotMachineRed :: 120 ] [ Tweak_PowerAdj_HC_SlotMachineGreen :: 120 ] [ Tweak_PowerAdj_HC_SlotMachineBlue :: 130 ] [ Tweak_PowerAdj_Holodeck_Basic :: 450 ] [ Tweak_PowerAdj_Holodeck_Standard :: 800 ] [ Tweak_PowerAdj_Holodeck_AI :: 1000 ] [ Tweak_PowerAdj_ShipAirlockWrecked :: 50 ] [ Tweak_PowerAdj_Ship_DamagedReactor :: -3500 ] [ Tweak_PowerAdj_ShipInside_SolarGenerator :: -1 ] [ Tweak_PowerAdj_ShipInside_PassiveVent :: 150 ] [ Tweak_PowerAdj_ShipAirlock :: 50 ] [ Tweak_PowerAdj_Ship_Engine_Small :: 10 ] [ Tweak_PowerAdj_Ship_Engine :: 30 ] [ Tweak_PowerAdj_Ship_Engine_Large :: 100 ] [ Tweak_PowerAdj_Ship_Engine_Interplanetary :: 200 ] [ Tweak_PowerAdj_Ship_Engine_Interplanetary_Large :: 600 ] [ Tweak_PowerAdj_ShipPilotSeatMini :: 50 ] [ Tweak_PowerAdj_ShipConsoleTactical :: 50 ] [ Tweak_PowerAdj_ShipConsoleScience :: 50 ] [ Tweak_PowerAdj_Ship_DroneCore :: 500 ] [ Tweak_PowerAdj_Ship_ComputerCore :: 1000 ] [ Tweak_PowerAdj_Ship_SensorCluster :: 250 ] [ Tweak_PowerAdj_Ship_SensorClusterAdv :: 750 ] [ Tweak_PowerAdj_Ship_LifeSupport :: 800 ] [ Tweak_PowerAdj_Ship_LifeSupport_Small :: 2400 ] [ Tweak_PowerAdj_Ship_Reactor :: -10000 ] [ Tweak_PowerAdj_Ship_Reactor_Small :: -3000 ] [ Tweak_PowerAdj_ShipShuttleBay :: 400 ] [ Tweak_PowerAdj_ShipShuttleBayLarge :: 600 ] [ Tweak_PowerAdj_ShipSalvageBayNano :: 2000 ] [ Tweak_PowerAdj_ShipCloakingDevice :: 5000 ] [ Tweak_PowerAdj_Ship_AvatarCasket :: 600 ] [ Tweak_PowerAdj_HullFoamDistributor :: 200 ] [ Tweak_PowerAdj_WallSunLampSoS :: 1100 ] [ Tweak_PowerAdj_ShipCombatShieldGenerator :: 2000 ] [ Tweak_PowerAdj_ShipCombatShieldGeneratorMini :: 750 ] [ Tweak_PowerAdj_ShipTurret_ACI :: 100 ] [ Tweak_PowerAdj_ShipTurret_ACII :: 120 ] [ Tweak_PowerAdj_ShipTurret_ACIII :: 250 ] [ Tweak_PowerAdj_ShipTurret_Laser :: 150 ] [ Tweak_PowerAdj_ShipTurret_Laser_Large :: 150 ] [ Tweak_PowerAdj_ShipTurret_Plasma :: 150 ] [ Tweak_PowerAdj_ShipTurret_Plasma_Large :: 150 ] [ Tweak_PowerAdj_ShipTurret_Kinetic :: 150 ] [ Tweak_PowerAdj_ShipTurret_Kinetic_Large :: 150 ] [ Tweak_PowerAdj_ShipSpinalBarrelLaser :: 150 ] [ Tweak_PowerAdj_ShipSpinalBarrelPlasma :: 150 ] [ Tweak_PowerAdj_ShipSpinalBarrelKinetic :: 150 ] [ Tweak_PowerAdj_ShipTorpedoOne :: 50 ] [ Tweak_PowerAdj_ShipTorpedoTwo :: 72 ] [ Tweak_PowerAdj_ShipTorpedoSix :: 150 ] [ Tweak_PowerAdj_ShipInside_SolarGeneratorMech :: -1 ] [ Tweak_PowerAdj_ShipInside_PassiveVentMechanoid :: 150 ] [ Tweak_PowerAdj_ShipAirlockMech :: 50 ] [ Tweak_PowerAdj_ShipInside_SolarGeneratorArchotech :: -1 ] [ Tweak_PowerAdj_ShipInside_PassiveVentArchotech :: 150 ] [ Tweak_PowerAdj_ShipAirlockArchotech :: 20 ] [ Tweak_PowerAdj_Ship_Engine_Archotech :: 1000 ] [ Tweak_PowerAdj_ArchotechAntimatterReactor :: -100000 ] [ Tweak_PowerAdj_ArchotechShieldGenerator :: 1500 ] [ Tweak_PowerAdj_ShipArchotechSpore :: 2000 ] [ Tweak_PowerAdj_ArchotechUplink :: 200 ] [ Tweak_PowerAdj_ShipSpinalBarrelPsychic :: 150 ] [ Tweak_PowerAdj_ShipSpinalBarrelMechanite :: 150 ] [ Tweak_PowerAdj_ArchoRecycler :: 1400 ] [ Tweak_PowerAdj_Spaceports_ShuttleLandingPad :: 100 ] [ Tweak_PowerAdj_Spaceports_FuelProcessor :: 1000 ] [ Tweak_PowerAdj_Spaceports_FuelTank :: 100 ] [ Tweak_PowerAdj_Spaceports_FuelDispenser :: 50 ] [ Tweak_PowerAdj_Spaceports_Beacon :: 300 ] [ Tweak_PowerAdj_AF_EPPSubmitter :: 3300 ] [ Tweak_PowerAdj_AF_EPPSubmitterDisturbed :: 3300 ] [ Tweak_PowerAdj_RB_LargeSecurityDoor :: 50 ] [ Tweak_PowerAdj_RB_GlassAutodoor :: 50 ] [ Tweak_PowerAdj_RB_ReinforcedGlassAutodoor :: 50 ] [ Tweak_PowerAdj_VFEPD_AP_LamplightA_Functional :: 30 ] [ Tweak_PowerAdj_VFEPD_AP_LamplightB_Functional :: 30 ] [ Tweak_PowerAdj_VFEPD_AP_LamplightC_Functional :: 30 ] [ Tweak_PowerAdj_VFEPD_AP_LamplightD_Functional :: 30 ] [ Tweak_PowerAdj_VFEPD_AP_LamplightE_Functional :: 30 ] [ Tweak_PowerAdj_VFEPD_AP_LamplightL_Functional :: 30 ] [ Tweak_PowerAdj_VFEPD_AP_LamplightT_Functional :: 30 ] [ Tweak_PowerAdj_KB_PocketDimensionEmpty :: 1000 ] [ Tweak_PowerAdj_RH_VOIDPowerCell :: -1000 ] [ Tweak_PowerAdj_RH_Corpo_StandingLamp :: 25 ] [ Tweak_PowerAdj_RH_Corpo_StandingLamp_Red :: 25 ] [ Tweak_PowerAdj_RH_Corpo_StandingLamp_Green :: 25 ] [ Tweak_PowerAdj_RH_Corpo_StandingLamp_Blue :: 25 ] [ Tweak_PowerAdj_RB_FloorLamp :: 20 ] [ Tweak_PowerAdj_RB_DoubleAutodoor :: 50 ] [ Tweak_PowerAdj_alt4s_UniversalTradeConsole :: 400 ] [ Tweak_PowerAdj_COMIGO_SmallerElectricStove :: 300 ] [ Tweak_PowerAdj_COMIGO_CompactNutrientPasteDispenser :: 200 ] [ Tweak_PowerAdj_COMIGO_AdvancedNutrientPasteDispenser :: 1200 ] [ Tweak_PowerAdj_COMIGO_InWallNutrientPasteDispenser :: 75 ] [ Tweak_PowerAdj_COMIGO_NutrientArchoDispenser :: 3600 ] [ Tweak_PowerAdj_RoadLight3HST :: 30 ] [ Tweak_PowerAdj_RoadLight3HSTDouble :: 30 ] [ Tweak_PowerAdj_SHBS_ElectromagneticJammerTurret :: 550 ] [ Tweak_PowerAdj_SHBS_HERocketTurret :: 150 ] [ Tweak_PowerAdj_SHBS_ShotgunTurret :: 150 ] [ Tweak_PowerAdj_SHBS_DuplexCarbineTurret :: 150 ] [ Tweak_PowerAdj_SHBS_ArcherTurret :: 160 ] [ Tweak_PowerAdj_SHBS_PlasmaTurret :: 250 ] [ Tweak_PowerAdj_SHBS_APRocketsWarm :: 180 ] [ Tweak_PowerAdj_SHBS_ProtonCollider :: 2500 ] [ Tweak_PowerAdj_SZ_BeastGeneExtractor :: 200 ] [ Tweak_PowerAdj_ReelStorageMedicineCabinet :: 150 ] [ Tweak_PowerAdj_BMT_DisplayLight :: 4 ] [ Tweak_PowerAdj_BioTrophyPlatform_Rotate :: 100 ] [ Tweak_PowerAdj_OpenBlastDoor :: 350 ] [ Tweak_PowerAdj_ClosedBlastDoor :: 350 ] [ Tweak_PowerAdj_LingBodyCuter :: 300 ] [ Tweak_PowerAdj_OgHoloBarricadeBase :: 40 ] [ Tweak_PowerAdj_OgHoloTurretBase :: 160 ] [ Tweak_PowerAdj_SHBS_AlliedGiantTurret :: 500 ] [ Tweak_PowerAdj_SHBS_CommandCenter :: 1000 ] [ Tweak_PowerAdj_SHBS_SunAltar :: 2500 ] [ Tweak_PowerAdj_SHBS_SundialArray :: 2500 ] [ Tweak_PowerAdj_Milira_ComponentBench :: 350 ] [ Tweak_PowerAdj_Wolfein_MechGestatorCivil :: 350 ] [ Tweak_PowerAdj_Wolfein_MechGestatorMilitary :: 500 ] [ Tweak_PowerAdj_Wolfein_MechCharger :: 200 ] [ Tweak_PowerAdj_Wolfein_MechChargerLarge :: 200 ] [ Tweak_PowerAdj_Wolfein_Turret_C :: 450 ] [ Tweak_PowerAdj_Wolfein_ShelfSmall :: 80 ] [ Tweak_PowerAdj_Wolfein_Electric_TailoringBench :: 140 ] [ Tweak_PowerAdj_Wolfein_TableMachining :: 140 ] [ Tweak_PowerAdj_Wolfein_ReverseResearchBench :: 140 ] [ Tweak_PowerAdj_Wolfein_Turret_A :: 120 ] [ Tweak_PowerAdj_Wolfein_Turret_B :: 120 ] [ Tweak_PowerAdj_Wolfein_Turret_D :: 450 ] [ Tweak_PowerAdj_Wolfein_Turret_E :: 450 ] [ Tweak_PowerAdj_DMS_Turret_Dawnblade :: 1000 ] [ Tweak_PowerAdj_Cinder_AncientWorkstation :: 450 ] [ Tweak_PowerAdj_DMS_MechGestatorSynthetic :: 500 ] [ Tweak_PowerAdj_DMSAC_Hole_PowerGen :: -7500 ] [ Tweak_PowerAdj_DMSAC_WallLamp :: 30 ] [ Tweak_PowerAdj_MF_Building_EjectorBay :: 500 ] [ Tweak_PowerAdj_WVC_GeneRecharger :: 180 ] [ Tweak_PowerAdj_WVC_SerumCraftingTable :: 50 ] [ Tweak_PowerAdj_WVC_XenotypesAndGenes_UltranitesSpawner :: 300 ] [ Tweak_PowerAdj_WVC_XenotypesAndGenes_UltraniteRecycler :: 400 ] [ Tweak_PowerAdj_AM_SmallGenerator :: -1000 ] [ Tweak_PowerAdj_AM_AncientDismantlingWorkbench :: 350 ] [ Tweak_PowerAdj_AM_LargeScreenTelevision :: 450 ] [ Tweak_PowerAdj_AM_ElectricalBox :: 1 ] [ Tweak_PowerAdj_AM_VirutalMiner :: 1050 ] [ Tweak_PowerAdj_AM_MaterialElevatorA :: 450 ] [ Tweak_PowerAdj_AM_MaterialElevatorC :: 450 ] [ Tweak_PowerAdj_WirelessCharger_I :: 500 ] [ Tweak_PowerAdj_WirelessCharger_II :: 1000 ] [ Tweak_PowerAdj_UniversalMechCharger :: 400 ] [ Tweak_PowerAdj_MU_BasicUpgradesAssembler :: 100 ] [ Tweak_PowerAdj_MU_AdvancedUpgradesAssembler :: 150 ] [ Tweak_PowerAdj_MU_MechUpgrader :: 150 ] [ Tweak_PowerAdj_MU_AssemblyCentrifuge :: 50 ] [ Tweak_PowerAdj_UNAstainedglass_A :: 30 ] [ Tweak_PowerAdj_UNAB_StandLight :: 30 ] [ Tweak_PowerAdj_UNA_FloodLight :: 100 ] [ Tweak_PowerAdj_PFK_AnimalLamp :: 30 ] [ Tweak_PowerAdj_PFK_FairyLights :: 2 ] [ Tweak_PowerAdj_PFK_TubeTelevision :: 200 ] [ Tweak_PowerAdj_MF_ModernElevatorA :: 150 ] [ Tweak_PowerAdj_VFE_DeskLamp :: 20 ] [ Tweak_PowerAdj_VFE_FloorLamp :: 20 ] [ Tweak_PowerAdj_VFE_RoyalLamp :: 30 ] [ Tweak_PowerAdj_ReelStorageFridge :: 100 ]
+Int Range Settings: [ Tweak_TraitCountRange :: 3~3 ]
+Float Settings: [ Tweak_SpawnPregnancyChance :: 0.03 ] [ Tweak_MechDischargeRate :: 1 ] [ Tweak_MechAdj_GlobalWorkSpeed :: 0.5 ] [ Tweak_MechAdj_ConstructoidWorkSpeed :: 0.5 ] [ Tweak_MechAdj_AgrihandWorkSpeed :: 0.8 ] [ Tweak_MechAdj_CleansweeperWorkSpeed :: 0.5 ] [ Tweak_PoluxEffectRadius :: 7.9 ] [ Tweak_PoluxEffectRate :: 1 ] [ Tweak_SuppressionThreshold :: 1 ] [ Tweak_GauranlenArtificialBuildingRadius :: 7.9 ] [ Tweak_GauranlenConnectionGain :: 0.01 ] [ Tweak_GauranlenConnectionLoss :: 1 ] [ Tweak_GauranlenConnectionLossBuildings :: 1 ] [ Tweak_GauranlenMossGrowthRadius :: 7.9 ] [ Tweak_MeditationGain :: 0.5 ] [ Tweak_AnimaScreamDuration :: 5 ] [ Tweak_AnimaArtificialBuildingRadius :: 34.9 ] [ Tweak_AnimaNaturalBuildingRadius :: 9.9 ] [ Tweak_ShrineArtificialBuildingRadius :: 34.9 ] [ Tweak_ShrineNaturalBuildingRadius :: 9.9 ] [ Tweak_NFSM_PreventByWildness :: 0.65 ] [ Tweak_FasterSmoothingFactor :: 3 ] [ Tweak_SkillLossMultiplier :: 1 ] [ Tweak_SkillGainMultiplier :: 1 ] [ Tweak_MechanoidHeatArmor :: 2 ] [ Tweak_TechTraversal_PercentageNeeded :: 0.8 ]
+Float Range Settings: [ Tweak_GauranlenInitialConnection :: 0.25~0.449999988 ]
+Infestation Blocking Terrains:混凝土地面 (Concrete)
+铺装地砖 (PavedTile)
+钢质地砖 (MetalTile)
+银质地砖 (SilverTile)
+金质地砖 (GoldTile)
+无菌地砖 (SterileTile)
+砂岩地砖 (TileSandstone)
+花岗岩地砖 (TileGranite)
+石灰岩地砖 (TileLimestone)
+板岩地砖 (TileSlate)
+大理石地砖 (TileMarble)
+砂岩石板 (FlagstoneSandstone)
+花岗岩石板 (FlagstoneGranite)
+石灰岩石板 (FlagstoneLimestone)
+板岩石板 (FlagstoneSlate)
+大理石石板 (FlagstoneMarble)
+精致砂岩地砖 (FineTileSandstone)
+精致花岗岩地砖 (FineTileGranite)
+精致石灰岩地砖 (FineTileLimestone)
+精致板岩地砖 (FineTileSlate)
+精致大理石地砖 (FineTileMarble)
+病态风格地砖（砂岩） (Tile_MorbidSandstone)
+病态风格地砖（花岗岩） (Tile_MorbidGranite)
+病态风格地砖（石灰岩） (Tile_MorbidLimestone)
+病态风格地砖（板岩） (Tile_MorbidSlate)
+病态风格地砖（大理石） (Tile_MorbidMarble)
+尖刺风格地砖（砂岩） (Tile_SpikecoreSandstone)
+尖刺风格地砖（花岗岩） (Tile_SpikecoreGranite)
+尖刺风格地砖（石灰岩） (Tile_SpikecoreLimestone)
+尖刺风格地砖（板岩） (Tile_SpikecoreSlate)
+尖刺风格地砖（大理石） (Tile_SpikecoreMarble)
+尖刺地板 (Plates_Spikecore)
+图腾风格地砖（砂岩） (Tile_TotemicSandstone)
+图腾风格地砖（花岗岩） (Tile_TotemicGranite)
+图腾风格地砖（石灰岩） (Tile_TotemicLimestone)
+图腾风格地砖（板岩） (Tile_TotemicSlate)
+图腾风格地砖（大理石） (Tile_TotemicMarble)
+六角地砖 (Tile_Transhumanist)
+活铁地砖 (BioferritePlate)
+病态玄武岩地砖 (Mashed_Ashlands_Tile_MorbidBasalt)
+尖刺玄武岩地砖 (Mashed_Ashlands_Tile_SpikecoreBasalt)
+图腾玄武岩地砖 (Mashed_Ashlands_Tile_TotemicBasalt)
+精致玄武岩地砖 (Mashed_Ashlands_FineTileBasalt)
+火山乌石地砖 (Mashed_Ashlands_VolcanicEbonyTile)
+火山玻璃地砖 (Mashed_Ashlands_VolcanicGlassTile)
+玄武岩地砖 (Mashed_Ashlands_TileBasalt)
+玄武岩石板 (Mashed_Ashlands_FlagstoneBasalt)
+巨企风格地砖（砂岩） (VME_CorporateFineTileSandstone)
+巨企风格地砖（花岗岩） (VME_CorporateFineTileGranite)
+巨企风格地砖（石灰岩） (VME_CorporateFineTileLimestone)
+巨企风格地砖（板岩） (VME_CorporateFineTileSlate)
+巨企风格地砖（大理石） (VME_CorporateFineTileMarble)
+东方风格精致地砖（砂岩） (VME_ShintaoFineTileSandstone)
+东方风格精致地砖（花岗岩） (VME_ShintaoFineTileGranite)
+东方风格精致地砖（石灰岩） (VME_ShintaoFineTileLimestone)
+东方风格精致地砖（板岩） (VME_ShintaoFineTileSlate)
+东方风格精致地砖（大理石） (VME_ShintaoFineTileMarble)
+Jade tile (WDJadeTile)
+Check jade tile (WDCheckJadeFloor)
+Jade floor (WDJadeFloor)
+Smooth jade floor (WDSmoothJadeFloor)
+Fine jade tile (WDFineJadeTile)
+Metal sheets (WDMetalSheets)
+Striped metal sheets (WDStripedMetalTile)
+Patterned metal sheets (WDPatternedMetalTile)
+Check steel tile (WDMetalCheckTile)
+Hexagonal steel tile (WDHexMetalFloor)
+Check silver tile (WDSilverCheckTile)
+Hexagonal silver tile (WDSilverTileHex)
+Check gold tile (WDGoldCheckTile)
+Hexagonal gold tile (WDGodlTileHex)
+Plasteel tile (WDPlasteelTile)
+Check plasteel tile (WDPlasteelCheckTile)
+Hexagonal plasteel tile (WDPlasteelTileHex)
+Check sterile tile (WDCheckSterileTile)
+Hexagonal sterile tile (WDHexSterileTile)
+Rough sandstone tile (WDRoughSandstoneTile)
+Rough granite tile (WDRoughGraniteTile)
+Rough limestone tile (WDRoughLimestoneTile)
+Rough slate tile (WDRoughSlateTile)
+Rough marble tile (WDRoughMarbleTile)
+Smooth sandstone tile (WDSandstoneTile)
+Smooth granite tile (WDGraniteTile)
+Smooth limestone tile (WDLimestoneTile)
+Smooth slate tile (WDSlateTile)
+Smooth marble tile (WDMarbleTile)
+Check sandstone tile (WDCheckSandstoneTile)
+Check granite tile (WDCheckGraniteTile)
+Check limestone tile (WDCheckLimestoneTile)
+Check slate tile (WDCheckSlateTile)
+Check marble tile (WDCheckMarbleTile)
+Check sandstone floor (WDCheckSandstoneFloor)
+Check granite floor (WDCheckGraniteFloor)
+Check limestone floor (WDCheckLimestoneFloor)
+Check slate floor (WDCheckSlateFloor)
+Check marble floor (WDCheckMarbleFloor)
+Mosaic sandstone floor (WDMosaicSandstoneFloor)
+Mosaic granite floor (WDMosaicGraniteFloor)
+Mosaic limestone floor (WDMosaicLimestoneFloor)
+Mosaic slate floor (WDMosaicSlateFloor)
+Mosaic marble floor (WDMosaicMarbleFloor)
+Polished sandstone floor (WDPolishedSandstoneFloor)
+Polished granite floor (WDPolishedGraniteFloor)
+Polished limestone floor (WDPolishedLimestoneFloor)
+Polished slate floor (WDPolishedSlateFloor)
+Polished marble floor (WDPolishedMarbleFloor)
+Sandstone plate floor (WDSandstonePlateFloor)
+Granite plate floor (WDGranitePlateFloor)
+Limestone plate floor (WDLimestonePlateFloor)
+Slate plate floor (WDSlatePlateFloor)
+Marble plate floor (WDMarblePlateFloor)
+工业地砖 (LTS_IndustrialFloor)
+工业地砖 (LTS_IndustrialTileFloor)
+工业八角地砖 (LTS_IndustrailDirtyFloor)
+工业格栅地砖（横向） (LTS_GratingHFloor)
+工业格栅地砖（横向） (LTS_GratingVFloor)
+未来格栅地砖 (LTS_GratedFloor)
+未来地砖（白） (LTS_LightFloor)
+未来地砖（黑） (LTS_PlatedFloor)
+砂岩乡土地砖 (LTS_RuralSandstone)
+花岗岩乡土地砖 (LTS_RuralGranite)
+石灰岩乡土地砖 (LTS_RuralLimestone)
+板岩乡土地砖 (LTS_RuralSlate)
+大理石乡土地砖 (LTS_RuralMarble)
+砂岩大地砖 (LTS_PatternEvenSandstone)
+花岗岩大地砖 (LTS_PatternEvenGranite)
+石灰岩大地砖 (LTS_PatternEvenLimestone)
+板岩大地砖 (LTS_PatternEvenSlate)
+大理石大地砖 (LTS_PatternEvenMarble)
+砂岩精美地砖 (LTS_PatternUnevenSandstone)
+花岗岩精美地砖 (LTS_PatternUnevenGranite)
+石灰岩精美地砖 (LTS_PatternUnevenLimestone)
+板岩精美地砖 (LTS_PatternUnevenSlate)
+大理石精美地砖 (LTS_PatternUnevenMarble)
+砂岩砾石路 (LTS_GravelSandstone)
+花岗岩砾石路 (LTS_GravelGranite)
+石灰岩砾石路 (LTS_GravelLimestone)
+板岩砾石路 (LTS_GravelSlate)
+大理石砾石路 (LTS_GravelMarble)
+砂岩斜纹乡土石板路 (LTS_RoughSquareDiagonalSandstone)
+花岗岩斜纹乡土石板路 (LTS_RoughSquareDiagonalGranite)
+石灰岩斜纹乡土石板路 (LTS_RoughSquareDiagonalLimestone)
+板岩斜纹乡土石板路 (LTS_RoughSquareDiagonalSlate)
+大理石斜纹乡土石板路 (LTS_RoughSquareDiagonalMarble)
+砂岩直纹乡土石板路 (LTS_RoughSquareStraightSandstone)
+花岗岩直纹乡土石板路 (LTS_RoughSquareStraightGranite)
+石灰岩直纹乡土石板路 (LTS_RoughSquareStraightLimestone)
+板岩直纹乡土石板路 (LTS_RoughSquareStraightSlate)
+大理石直纹乡土石板路 (LTS_RoughSquareStraightMarble)
+砂岩乡土石板路（横向） (LTS_RoughTileBaseHSandstone)
+花岗岩乡土石板路（横向） (LTS_RoughTileBaseHGranite)
+石灰岩乡土石板路（横向） (LTS_RoughTileBaseHLimestone)
+板岩乡土石板路（横向） (LTS_RoughTileBaseHSlate)
+大理石乡土石板路（横向） (LTS_RoughTileBaseHMarble)
+砂岩乡土石板路（竖向） (LTS_RoughTileBaseVSandstone)
+花岗岩乡土石板路（竖向） (LTS_RoughTileBaseVGranite)
+石灰岩乡土石板路（竖向） (LTS_RoughTileBaseVLimestone)
+板岩乡土石板路（竖向） (LTS_RoughTileBaseVSlate)
+大理石乡土石板路（竖向） (LTS_RoughTileBaseVMarble)
+砂岩圆石路 (CCot_CobblestoneSandstone)
+花岗岩圆石路 (CCot_CobblestoneGranite)
+石灰岩圆石路 (CCot_CobblestoneLimestone)
+板岩圆石路 (CCot_CobblestoneSlate)
+大理石圆石路 (CCot_CobblestoneMarble)
+红色的鲜红马赛克 (RedScarletMosaic)
+黄色的鲜红马赛克 (YellowScarletMosaic)
+绿色的鲜红马赛克 (GreenScarletMosaic)
+蓝色的鲜红马赛克 (BlueScarletMosaic)
+白色的鲜红马赛克 (WhiteScarletMosaic)
+黑色的鲜红马赛克 (BlackScarletMosaic)
+砂岩城堡地砖 (CastleFloorTilesSandstone)
+花岗岩城堡地砖 (CastleFloorTilesGranite)
+石灰岩城堡地砖 (CastleFloorTilesLimestone)
+板岩城堡地砖 (CastleFloorTilesSlate)
+大理石城堡地砖 (CastleFloorTilesMarble)
+PFK Colorful Tiles A (PFK_TilesColorful)
+PFK Colorful Tiles B (PFK_TilesColorfulB)
+PFK Colorful Tiles C (PFK_TilesColorfulC)
+PFK Stars Tiles (PFK_TilesStars)
+PFK BlueSky Tiles (PFK_TilesBlueSky)
+Foundation base (sd_bridges_FundamentBase)
+Platform (sd_bridges_platform)
+水泥道路 (FT_Concrete)
+混凝土地砖 (FT_ConcreteTile)
+精致混凝土地砖 (FT_FineConcreteTile)
+混凝土舖路砖 (FT_FlagstoneConcrete)
+Warning floor (UCStripedFloor)
+Scaffold floor (UCScaffoldFloor)
+Scaffold Tile (UCScaffoldTile)
+瓷砖 (AM_WhiteTile)
+黑色瓷砖 (AM_BlackTile)
+条纹瓷砖 (AM_Tile)
+Mosaic tile (DBHMosaicTile)
+Sandstone mosaic tile (DBHMosaicSandstone)
+Granite mosaic tile (DBHMosaicGranite)
+Limestone mosaic tile (DBHMosaicLimestone)
+Slate mosaic tile (DBHMosaicSlate)
+Marble mosaic tile (DBHMosaicMarble)
+Paved hex tile (RB_PavedTile_Transhumanist)
+Steel grate tile (RB_MetalGrateTile)
+Silver grate tile (RB_SilverGrateTile)
+Gold grate tile (RB_GoldGrateTile)
+Steel studded tile (RB_MetalStuddedTile)
+Silver studded tile (RB_SilverStuddedTile)
+Gold studded tile (RB_GoldStuddedTile)
+Sterile grate tile (RB_SterileGrateTile)
+Sterile studded tile (RB_SterileStuddedTile)
+被侵蚀的金属 (AT_Erodedmetal)
+
+Stone Chunks Patched:
+砂岩块 (ChunkSandstone)
+花岗岩块 (ChunkGranite)
+石灰岩块 (ChunkLimestone)
+板岩块 (ChunkSlate)
+大理石块 (ChunkMarble)
+玄武岩块 (Mashed_Ashlands_ChunkBasalt)
+
+Slag Chunks Patched:
+机械体残块 (ChunkMechanoidSlag)
+钢渣块 (ChunkSlagSteel)
+机兵残骸 (DMS_ChunkSlag)
+古代机兵残骸 (DMS_ChunkSlag_Old)
+
+Patched: 10
+Damage Indicators initialized.
+[TrueTerrainColors v1.12.17] Loaded cached true colors for 2383 terrain defs from file.
+Alien race successfully completed 256 patches with harmony.
+More Vanilla Biomes initialized
+[Utility Columns] - Patching...
+<color=#FFEB04FF>[HenTaiLoliTeam] ==========================================================================</color>
+<color=#FFEB04FF>[HenTaiLoliTeam]                                        MoeLotl Mod Add Success</color>
+<color=#FFEB04FF>[HenTaiLoliTeam] ==========================================================================</color>
+Rigor Mortis: Trying...
+Rigor Mortis: Character Card Transpiler applied.
+Rigor Mortis: Trying...
+Rigor Mortis: Float Menu Transpiler applied.
+Rigor Mortis: Trying...
+Rigor Mortis: LordJob Transpiler applied.
+Rigor Mortis: LordJob Transpiler applied.
+[Dynamic Diplomacy] DD loaded
+[phepholia] Harmony patches applied
+Initializing RPG_Style_Level_Up_Mod_patches...
+Material doesn't have a texture property '_MainTex' 
+(Filename:  Line: 1482)
+
+Material doesn't have a texture property '_MainTex' 
+(Filename:  Line: 1482)
+
+PickUpAndHaul v1.1.2¼ welcomes you to RimWorld with pointless logspam.
+[Geological Landforms v1.7.3] Found landform data in the following mods: Geological Landforms, Biome Transitions, Mashed's Ashlands
+[Geological Landforms v1.7.3] Loaded 51 landforms of which 0 are edited and 0 are custom.
+MVCF successfully applied 65 patches
+[net.pardeike.rimworld.lib.harmony] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.Translator.Translate 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[com.VFEProps] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.ThingUtility.CheckAutoRebuildOnDestroyed 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[VCR.Mod] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.ShootLine.ChangeDestToMissWild 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CharacterEditor v1.5.10 initializing...
+updating labels for simplified chinese...
+loading pawn slot content from file...
+character editor instance created
+checking editor settings...
+bodysizes genes are active
+CharacterEditor v1.5.10 ...done
+(Eccentric Projectiles v6.2.2.0) Bundled package detected from 1 mods:
+Eccentric Tech - Defense Grid
+
+Loading asset bundle MuzzleFlash.shaders-windows
+Loaded shader Unlit/AnimatedAdditiveInstanced
+[Muzzle Flash] Shader loaded from MuzzleFlash: Unlit/AnimatedAdditiveInstanced
+<color=#66ffb5>[MeleeAnim]</color> Potential patch conflicts (19): 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#66ffb5>[MeleeAnim]</color> 
+static System.Void RimWorld.FloatMenuMakerMap::AddDraftedOrders(UnityEngine.Vector3 clickPos, Verse.Pawn pawn, System.Collections.Generic.List`1<Verse.FloatMenuOption> opts, System.Boolean suppressAutoTakeableGoto)
+Prefixes:
+  [OskarPotocki.VFECore] Prefix
+Transpilers:
+  [legodude17.mvcf] CheckForMelee
+Postfixes:
+  [co.uk.epicguru.meleeanimation] Postfix
+  [Telardo.MultiFloors] AddCrossLevelOptions
+
+static System.Void Verse.PawnRenderUtility::DrawEquipmentAiming(Verse.Thing eq, UnityEngine.Vector3 drawLoc, System.Single aimAngle)
+Prefixes:
+  [OskarPotocki.VFECore] Prefix
+  [OskarPotocki.VFECore] DrawEquipmentAimingPrefix
+  [OskarPotocki.VFECore] Prefix
+  [co.uk.epicguru.meleeanimation] Prefix
+  [com.ogliss.rimworld.mod.VanillaWeaponsExpandedLaser] Prefix
+  [rimworld.aelanna.eccentrictech.projectiles] PawnRendererDrawEquipmentAiming_Prefix
+  [XMB.AncientMall.MO] Prefix
+Transpilers:
+Postfixes:
+  [OskarPotocki.VFECore] Postfix
+  [Vodka.MuzzleFlash] Postfix
+
+static System.Void Verse.PawnGenerator::GenerateGearFor(Verse.Pawn pawn, Verse.PawnGenerationRequest request)
+Prefixes:
+Transpilers:
+Postfixes:
+  [OskarPotocki.VFECore] Postfix
+  [WalkerGear] Postfix
+  [co.uk.epicguru.meleeanimation] Postfix
+  [rimworld.erdelf.alien_race.main] GenerateGearForPostfix
+
+System.Boolean Verse.HediffSet::get_HasHead()
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+  [rimworld.erdelf.alien_race.main] HasHeadPrefix
+Transpilers:
+Postfixes:
+
+static System.Boolean RimWorld.InvisibilityUtility::IsPsychologicallyInvisible(Verse.Pawn pawn)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+  [Telardo.PerformancePatches] FasterInvisibility
+Transpilers:
+Postfixes:
+
+System.Void Verse.PawnRenderTree::ParallelPreDraw(Verse.PawnDrawParms parms)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+  [co.uk.epicguru.meleeanimation] Postfix
+  [rimworld.Nals.FacialAnimation] PostfixParallelPreDraw
+
+virtual System.Boolean RimWorld.Verb_MeleeAttack::TryCastShot()
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+  [VCR.Mod] Transpiler
+Postfixes:
+  [rimworld.aelanna.eccentrictech.projectiles] VerbTryCastShot_Postfix
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#66ffb5>[MeleeAnim]</color> Full patch list:
+<color=#66ffb5>[MeleeAnim]</color> 
+static System.Void RimWorld.FloatMenuMakerMap::AddDraftedOrders(UnityEngine.Vector3 clickPos, Verse.Pawn pawn, System.Collections.Generic.List`1<Verse.FloatMenuOption> opts, System.Boolean suppressAutoTakeableGoto)
+Prefixes:
+  [OskarPotocki.VFECore] Prefix
+Transpilers:
+  [legodude17.mvcf] CheckForMelee
+Postfixes:
+  [co.uk.epicguru.meleeanimation] Postfix
+  [Telardo.MultiFloors] AddCrossLevelOptions
+
+static System.Void Verse.PawnRenderUtility::DrawEquipmentAiming(Verse.Thing eq, UnityEngine.Vector3 drawLoc, System.Single aimAngle)
+Prefixes:
+  [OskarPotocki.VFECore] Prefix
+  [OskarPotocki.VFECore] DrawEquipmentAimingPrefix
+  [OskarPotocki.VFECore] Prefix
+  [co.uk.epicguru.meleeanimation] Prefix
+  [com.ogliss.rimworld.mod.VanillaWeaponsExpandedLaser] Prefix
+  [rimworld.aelanna.eccentrictech.projectiles] PawnRendererDrawEquipmentAiming_Prefix
+  [XMB.AncientMall.MO] Prefix
+Transpilers:
+Postfixes:
+  [OskarPotocki.VFECore] Postfix
+  [Vodka.MuzzleFlash] Postfix
+
+static System.Void Verse.PawnGenerator::GenerateGearFor(Verse.Pawn pawn, Verse.PawnGenerationRequest request)
+Prefixes:
+Transpilers:
+Postfixes:
+  [OskarPotocki.VFECore] Postfix
+  [WalkerGear] Postfix
+  [co.uk.epicguru.meleeanimation] Postfix
+  [rimworld.erdelf.alien_race.main] GenerateGearForPostfix
+
+System.Void RimWorld.Building_ProximityDetector::RunDetection()
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+  [co.uk.epicguru.meleeanimation] Postfix
+
+System.Boolean Verse.HediffSet::get_HasHead()
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+  [rimworld.erdelf.alien_race.main] HasHeadPrefix
+Transpilers:
+Postfixes:
+
+static System.Boolean RimWorld.InvisibilityUtility::IsPsychologicallyInvisible(Verse.Pawn pawn)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+  [Telardo.PerformancePatches] FasterInvisibility
+Transpilers:
+Postfixes:
+
+System.Void Verse.PawnRenderer::DrawShadowInternal(UnityEngine.Vector3 drawLoc)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+
+System.Void Verse.PawnRenderer::ParallelPreRenderPawnAt(UnityEngine.Vector3 drawLoc, System.Nullable`1<Verse.Rot4> rotOverride, System.Boolean neverAimWeapon)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+
+System.Void Verse.PawnRenderer::RenderPawnAt(UnityEngine.Vector3 drawLoc, System.Nullable`1<Verse.Rot4> rotOverride, System.Boolean neverAimWeapon)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+  [co.uk.epicguru.meleeanimation] Postfix
+
+System.Void Verse.PawnRenderTree::ParallelPreDraw(Verse.PawnDrawParms parms)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+  [co.uk.epicguru.meleeanimation] Postfix
+  [rimworld.Nals.FacialAnimation] PostfixParallelPreDraw
+
+static Verse.Pawn RimWorld.PawnUtility::PawnBlockingPathAt(Verse.IntVec3 c, Verse.Pawn forPawn, System.Boolean actAsIfHadCollideWithPawnsJob, System.Boolean collideOnlyWithStandingPawns, System.Boolean forPathFinder)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+
+System.Void RimWorld.Pawn_ApparelTracker::Notify_ApparelChanged()
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+
+virtual System.Void Verse.Pawn::DrawGUIOverlay()
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+
+System.Void Verse.Pawn_DrawTracker::Notify_MeleeAttackOn(Verse.Thing Target)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+
+virtual System.Boolean RimWorld.Verb_MeleeAttack::TryCastShot()
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+  [VCR.Mod] Transpiler
+Postfixes:
+  [rimworld.aelanna.eccentrictech.projectiles] VerbTryCastShot_Postfix
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 7)
+<color=#66ffb5>[MeleeAnim]</color> PreCached all retexture info in 214.1ms
+<color=#66ffb5>[MeleeAnim]</color> Loaded tweak data for 78 weapons.
+<color=#66ffb5>[MeleeAnim]</color> ludeon.rimworld 'Core' has 1 missing weapon tweak data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#66ffb5>[MeleeAnim]</color> van.beasts 'Dark Ages : Beasts and Monsters' has 2 missing weapon tweak data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#66ffb5>[MeleeAnim]</color> sirmashedpotato.ashlands 'Mashed's Ashlands' has 1 missing weapon tweak data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#66ffb5>[MeleeAnim]</color> rooandgloomy.dragonianracemod 'Gloomy Dragonian race' has 1 missing weapon tweak data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#66ffb5>[MeleeAnim]</color> ancot.milirarace 'Milira Race' has 1 missing weapon tweak data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#66ffb5>[MeleeAnim]</color> hentailoliteam.axolotl 'MoeLotl Race' has 8 missing weapon tweak data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#66ffb5>[MeleeAnim]</color> aoba.deadmanswitch.mobiledragoon 'The Dead Man's Switch - MobileDragoon' has 3 missing weapon tweak data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#66ffb5>[MeleeAnim]</color> chemora.valkyria 'Valkyria Race (瓦尔基里族)' has 2 missing weapon tweak data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#66ffb5>[MeleeAnim]</color> fxz.glitterworlddestroyer.mk4 'Glitterworld Destroyer 4 - Mechanoid Addon' has 2 missing weapon tweak data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#66ffb5>[MeleeAnim]</color> fxz.moelotlzombie.update 'MoeLotl: Rigor Mortis' has 5 missing weapon tweak data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#66ffb5>[MeleeAnim]</color> gogatio.newanomalythreats 'New Anomaly Threats' has 1 missing weapon tweak data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#66ffb5>[MeleeAnim]</color> Skipping reporting of missing mod/weapons because user opted out or the feature is disabled by the developer.
+<color=#66ffb5>[MeleeAnim]</color> Patched 8 classes that directly inherit from Verb_MeleeAttack in 253.5 ms to detect hits:
+RimWorld.Verb_MeleeApplyHediff from Assembly-CSharp
+RimWorld.Verb_MeleeAttackDamage from Assembly-CSharp
+WalkerGear.Verb_MeleeSweep from WalkerGear
+AncotLibrary.Verb_MeleeAttackDamage_HitPointPriority from AncotLibrary
+Kiiro.Verb_MeleeAttackDamage_Claw from Kiiro
+Kiiro.Verb_PhantomDaggerAttackDamage from Kiiro
+DMS.Verb_MeleeSweep from DMS
+GD3.Verb_WuYiDamage from GD3
+
+<color=#66ffb5>[MeleeAnim]</color> Found 47 items of clothing that cover hands, took 0.76 ms:
+VAE_Handwear_Gloves (手套),
+SHSE_NanomechArmGear (机械臂铠),
+Kiiro_MaidDressI (绮罗女仆服（款式1）),
+Kiiro_MaidDressII (绮罗女仆服（款式2）),
+Kiiro_MaidDressIII (绮罗女仆服（款式3）),
+Kiiro_MaidDressIV (绮罗女仆服（款式4）),
+Kiiro_MaidDressV (绮罗女仆服（款式5）),
+Kiiro_Stealth (绮罗夜行衣),
+Kiiro_StealthII (绮罗影袭者战服),
+Kiiro_GuerrillaUniform (绮罗游击队服),
+Kiiro_DressUniform (绮罗军礼服),
+Kiiro_ValorArmor (绮罗勇者甲胄),
+Kiiro_LeisureCoat (绮罗休闲外套),
+Kiiro_WinterRobe (绮罗毛绒棉袍),
+Kiiro_WhiteGown (绮罗白工作服),
+Kiiro_GraduationGown (绮罗学士服),
+Kiiro_PhantomCloak (绮罗魅影斗篷),
+Kiiro_Penance (厚重法官大衣),
+Kiiro_MintDress (月宵长裙),
+Kiiro_NoelleDress (补给队制服裙),
+Milira_SisterDressI (米莉拉修女服（款式1）),
+Milira_SisterDressII (米莉拉修女服（款式2）),
+Milira_SisterDressIII (米莉拉修女服（款式3）),
+Milira_Cloak (米莉拉旅行斗篷),
+Milira_ValkyrArmor (米莉拉瓦尔基里战甲),
+Milira_ArtemisArmor (米莉拉阿忒弥斯战甲（突击）),
+Milira_ArtemisArmorII (米莉拉阿忒弥斯战甲（防护）),
+Milira_DaedalusArmor (米莉拉代达罗斯战甲),
+Milira_Dustcoat (米莉拉风尘大衣),
+Milian_PivotCloak (米莉安引航者斗篷),
+Milian_SilentHunterCloak (米莉安寂静猎手斗篷),
+Milian_RangerArmor (米莉安游骑兵装甲),
+Milian_GuardianArmor (米莉安守卫者装甲),
+Milian_StalkerArmor (米莉安追猎者装甲),
+Milian_PaladinArmor (米莉安圣骑士装甲),
+Milian_RookArmor (米莉安战车装甲),
+Milian_StrikerArmor (米莉安冲击装甲),
+Milian_FortressArmor (米莉安要塞装甲),
+Milian_FeatherShapeShield (米莉安羽形盾),
+Milian_KnightShield (米莉安骑士盾),
+Milian_RookShield (米莉安独眼城门盾),
+Axolotl_FlameVermilionBirdArmour (萌螈 焰凰御甲),
+Axolotl_CelestialWhaleArmour (萌螈 云鲸御甲),
+DMS_Apparel_HazardSuit (生物防护服),
+DMS_Apparel_PowerSkelton (机械外骨骼),
+DMS_Apparel_PilotSuit (机甲驾驶服),
+AT_BreadFlakDress (无定形防弹裙子)
+
+Unloading 446 unused Assets to reduce memory usage. Loaded Objects now: 83563.
+Total: 1153.373100 ms (FindLiveObjects: 3.043000 ms CreateObjectMapping: 2.032500 ms MarkObjects: 1147.629900 ms  DeleteObjects: 0.667000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 7)
+  --> [What's That Mod] Took 0.15 seconds to scan all patches. <--
+What's That Mod: Wrote to 14423 mod descriptions, 14 patched defs resolved.
+What's That Mod took 202 milliseconds to generate all def descriptions.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 83563.
+Total: 1145.435200 ms (FindLiveObjects: 2.915500 ms CreateObjectMapping: 2.113700 ms MarkObjects: 1140.068700 ms  DeleteObjects: 0.336500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 7)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 83563.
+Total: 1185.909400 ms (FindLiveObjects: 3.481900 ms CreateObjectMapping: 2.392100 ms MarkObjects: 1179.948900 ms  DeleteObjects: 0.086000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 7)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 83563.
+Total: 1179.690200 ms (FindLiveObjects: 5.661100 ms CreateObjectMapping: 2.884700 ms MarkObjects: 1170.752100 ms  DeleteObjects: 0.391500 ms)
+
+[HugsLib] initializing com.github.alandariva.moreplanning, StackXXL, latta.infusion
+[StackXXL] Loaded
+[ShowModUpdates]: Found latest save, 调查员工会.rws
+[ShowModUpdates]: Last save writetime, 5/26/2025 9:49:19 PM
+CE is trying to create default parameter lists ...
+creating default parameter list for genes...
+[ShowModUpdates]: 自 25-05-26 21:49:19 后，存档中发现 1 个 Mod 更新
+Dark Ages : Beasts and Monsters
+937 default entities for genes created
+creating default parameter list for objects...
+7083 default entities for objects created
+creating default parameter list for turrets...
+97 default entities for turrets created
+...lists created
+CE is trying to apply modified parameters...
+no modifications for genes
+Cloth 修改已加载
+no modifications for lifestages
+...done
+[ShowMeYourHands]: Defined hand definitions of 270 weapons
+Unloading 3 Unused Serialized files (Serialized files now loaded: 7)
+UnloadTime: 0.384900 ms
+FileNotFoundException: Cannot resolve dependency to assembly because it has not been preloaded. When using the ReflectionOnly APIs, dependent assemblies must be pre-loaded or loaded on demand through the ReflectionOnlyAssemblyResolve event.
+
+ 
+(Filename:  Line: -1)
+
+
+Unloading 190 unused Assets to reduce memory usage. Loaded Objects now: 83631.
+Total: 1084.608800 ms (FindLiveObjects: 2.358400 ms CreateObjectMapping: 2.114900 ms MarkObjects: 1079.924300 ms  DeleteObjects: 0.210900 ms)
+
+Loading game from file 调查员工会 with mods:
+  - zetrith.prepatcher
+  - brrainz.harmony
+  - brrainz.visualexceptions
+  - bs.fishery
+  - Ludeon.RimWorld
+  - bs.performance
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Ludeon.RimWorld.Biotech
+  - Ludeon.RimWorld.Anomaly
+  - humblecoder.launchpageandglobaltool
+  - UnlimitedHugs.HugsLib
+  - louize.RuntimeGC
+  - l11byzz.not.generate.monument.quest
+  - savestoragesettings.kv.rw.fishtmp
+  - adaptive.storage.framework
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - RWZH.ChinesePack.VanillaFactionsExpandedCore
+  - hobtook.tradeui
+  - imranfish.xmlextensions
+  - Neronix17.TweaksGalore
+  - localghost.TweaksGalore.zhcn
+  - HellRevenger.QuickArea
+  - TW.Tangs.Retexture.Plants
+  - LSK.MusicExpansionPack
+  - VouLT.BetterPawnControl
+  - fxz.selectsimilar
+  - nimrag.scenariosearchbar
+  - humblecoder.UIimprovementandoverview
+  - Telefonmast.GraphicsSettings
+  - Dubwise.DubsMintMenus
+  - andery233xj.mod.BetterResearchTabs
+  - Fluffy.Blueprints.fork
+  - ray1203.SimpleCameraSetting
+  - ZH.ray1203.SimpleCameraSetting
+  - Dark.JobInBar
+  - DerekBickley.LTOColonyGroupsFinal
+  - CaesarV6.DamageIndicators
+  - dubwise.dubsmintminimap
+  - m00nl1ght.MapPreview
+  - Oblitus.MyLittlePlanet
+  - Owlchemist.WallUtilities
+  - bodlosh.WeaponStats
+  - Mlie.StuffList
+  - Sandy.RPGStyleInventory.avilmask.Revamped
+  - Mlie.ShowMeYourHands
+  - IssacZhuang.MuzzleFlash
+  - IssacZhuang.ShowMechanoidWeapon
+  - PeteTimesSix.CompactHediffs
+  - Paluto22.PawnHealthBar
+  - humblecoder.beginning.pawnappearance
+  - plaxen.MalangBodies
+  - Nals.FacialAnimation
+  - Nals.FacialAnimationExperimentals
+  - Barb.Facetexture
+  - erdelf.HumanoidAlienRaces
+  - RWZH.ChinesePack.HumanoidAlienRaces
+  - localghost.transmog
+  - AB.HATweaker
+  - Unofficial.MorePracticalTraits
+  - JintuziLamian.Hairstyle.AFUMenshairstyles
+  - JintuziLamian.Hairstyle.AFUWomenshairstyles
+  - telardo.BetterGeneGraphicsFramework
+  - JintuziLamian.Gene.XenoCosmetic
+  - VanillaExpanded.VAPPE
+  - RWZH.ChinesePack.VAPPE
+  - Anthitei.ATHsRetextureFemalApparel.Retexture
+  - ponpeco.KidsClothes
+  - VanillaExpanded.Ideo.RelicsAndArtifacts
+  - MO.Size.Valentine.Apparel
+  - bs.xenotypespawncontrol (incompatible version)
+  - azravos.factioncustomizer
+  - humblecoder.thing.animal
+  - sarg.alphaanimals
+  - QAQ.QAAAQ
+  - Van.Beasts
+  - Van.Beasts.zh
+  - XMB.BreadMech
+  - m00nl1ght.GeologicalLandforms
+  - ZH.m00nl1ght.GeologicalLandforms
+  - m00nl1ght.GeologicalLandforms.BiomeTransitions
+  - zylle.MoreVanillaBiomes
+  - SirMashedPotato.Ashlands
+  - acchh.Ashlandszh
+  - VanillaExpanded.VPlantsE
+  - VanillaExpanded.VPlantsEMore
+  - VanillaExpanded.VPlantsESucculents
+  - shavius.vpe.zh
+  - VanillaExpanded.VMemesE
+  - shavius.vie.zh
+  - swablu.ambience
+  - IH.Clean.Textures
+  - humblecoder.thing.furnitureandappliance
+  - balistafreak.StandaloneHotSpring
+  - 3HSTltd.Hotspring.Retexture (incompatible version)
+  - FLASHPOINT55.HumanPowerGeneratorMod
+  - VanillaExpanded.VFECore
+  - Erin.JapaneseFurniture
+  - Wemd.ExpandedFloors
+  - VanillaExpanded.VFEMedical
+  - VanillaExpanded.VFEPropsandDecor
+  - RWZH.ChinesePack.VFE
+  - VanillaExpanded.VTEXVariations
+  - EL.BiotechMechRT
+  - Adaptive.SimpleStorage
+  - ZH.adaptive.storage.neolithic
+  - reel.expanded.storage
+  - ZH.reel.expanded.storage
+  - LimeTreeSnake.Systems
+  - LimeTreeSnake.Furnishing
+  - ZH.LimeTreeSnake.Furnishing
+  - Erin.CottageCollection
+  - ZH.Erin.CottageCollection
+  - CP.Uncle.Boris.Used.Furniture
+  - ZH.Uncle.Boris.Used.Furniture
+  - Aelanna.EccentricTech.BeachStuff
+  - TW.BBQS.Barbecue.Star
+  - UNAGI.Cafe.gohan
+  - Darknote.BunkBeds
+  - MO.DecorationsLuxury
+  - mingtuwuxiang.FishingDecorative
+  - mingtuwuxiang.GothicDecorative
+  - sarg.alphapropsparks
+  - ZH.sarg.alphapropsparks
+  - lunartika.OS
+  - SHP.RUS
+  - ponpeco.PFKidsRoom
+  - 3HSTltd.Props.3HST
+  - BiomesTeam.BiomesFossils
+  - BiomesFossils.zh
+  - LingLuo.BioTrophy
+  - Mlie.DecorativeCliffs
+  - Shinzy.Bridgello
+  - gomi.simplestairs
+  - CAT.MonoPack
+  - ucp.invisiblewalls
+  - humblecoder.thing.technology
+  - Mlie.SDBridges
+  - Aoba.Fortress.Industrial
+  - Aoba.Fortress.Industrial.Citadel
+  - Aoba.Fortress.Industrial.NuclearDawn
+  - hobbes.bamba.evenmorelinkables
+  - ZH.hobbes.bamba.evenmorelinkables
+  - GHXX.TechAdvancing
+  - nephlite.orbitaltradecolumn
+  - VanillaExpanded.VBrewE
+  - shavius.vbe.zh
+  - Qux.worldfood
+  - ZH.Qux.worldfood
+  - Aelanna.EccentricTech.DefenseGrid
+  - Seigai.ChinesePack.EccentricTech
+  - LingLuo.PawnCuter
+  - WexMan.Mines
+  - Nephlite.Carryalls
+  - ZH.Nephlite.Carryalls
+  - Amli.Story.EPP
+  - shieldpower.ex
+  - Og.Holo.Defence
+  - Shirohane.Base.Security
+  - Shirohane.Special.Equipment
+  - Aoba.Exosuit.Framework
+  - humblecoder.factionsandrace
+  - RooAndGloomy.DragonianRaceMod
+  - RooAndGloomy.DragonianRaceMod.cht.chs
+  - Ancot.DragonianFacialAnimation
+  - Ancot.AncotLibrary
+  - Ancot.KiiroRace
+  - Ancot.KiiroRaceGenePatch
+  - Ancot.KiiroFacialAnimation
+  - Ancot.MiliraRace
+  - Ancot.MiliraRaceGenePatch
+  - Ancot.MiliraRaceFacialAnimation
+  - Ancot.MilianModification
+  - HenTaiLoliTeam.Axolotl
+  - HenTaiLoliTeam.Axolotl.FA
+  - Aoba.DeadManSwitch.Core
+  - Aoba.DeadManSwitch.Synthetic
+  - Aoba.DeadManSwitch.AncientCorps
+  - Aoba.DeadManSwitch.MobileDragoon
+  - Asiimoves.DeadManSwitch.ModuleMechWeapons
+  - wvc.sergkart.races.biotech
+  - WVC.Genes.CHS
+  - Chemora.Valkyria
+  - fxz.glitterworlddestroyer.mk4
+  - thereallemon.factioncontrol
+  - humblecoder.eventandtask
+  - HaiLuan.CustomQuestFramework
+  - fxz.moelotlzombie.update
+  - Ancot.KiiroStoryEventsExpanded
+  - SR.ModRimworld.FactionalWarContinued
+  - VanillaExpanded.VEE
+  - RWZH.ChinesePack.VanillaExpandedVEE
+  - VanillaExpanded.BaseGenerationExpanded
+  - nilchei.dynamicdiplomacycontinued
+  - GoGaTio.NewAnomalyThreats
+  - XMB.AncientUrbanrUins.MO
+  - humblecoder.function.addition
+  - AzzyH.UniversalMechCharger
+  - Dubwise.DubsBadHygiene
+  - avilmask.NonUnoPinata
+  - Orion.Hospitality
+  - RWZH.ChinesePack.Hospitality
+  - Orion.CashRegister
+  - Orion.Gastronomy
+  - overheadMeal.patch
+  - calltradeships.kv.rw
+  - Jaxe.Bubbles
+  - Jaxe.Bubbles.zh.hc
+  - cn.speakup.ttyet
+  - Supes.MapWideOrbitalTradeBeacon
+  - usagirei.pocketsand
+  - aRandomKiwi.RaidsForMe
+  - Mlie.RationalRomance
+  - RWZH.ChinesePack.RationalRomance
+  - com.Aquin.RomanceAgeFix
+  - telardo.RomanceOnTheRim
+  - FLASHPOINT55.RPGStyleLevelUpMod
+  - vis.StaticQuality
+  - LingLuo.MoveSteamGeyser
+  - com.github.alandariva.moreplanning
+  - Farxmai2.VanillaFurnitureExpandedPack
+  - ZH.Farxmai2.VanillaFurnitureExpandedPack
+  - FrozenSnowFox.IndoorTreeFarms
+  - CP.Rimdeed
+  - asavikle.Rimdeed.moujia.cn
+  - turnovus.submod.backpacksarenotbelts
+  - FrozenSnowFox.BetterAncientComplexLoot
+  - FrozenSnowFox.BetterCampLoot
+  - FrozenSnowFox.BetterAnomalyLoot
+  - ReBuild.COTR.DoorsAndCorners
+  - Indeed.StackXXL
+  - latta.fsharp.core
+  - latta.infusion
+  - zh.infusion2.charli
+  - fxz.appareldura
+  - coldcrow.betterorbitaltraders
+  - Redgeioz.ch.betterorbitaltraders
+  - alt4s.UniversalTradeHub
+  - telardo.MultiFloors
+  - GoGaTio.MechanoidUpgrades
+  - ZH.MZMGOW.GoGaTio.MechanoidUpgrades
+  - humblecoder.function.alogrithmimprovement
+  - ROO.DBMCScheetah
+  - Mlie.RealDining
+  - None1637.Icanequip
+  - densevoid.onebedtosleepwithall
+  - Owlchemist.Tacticowl
+  - fed1sPlay.PawnTargetFix
+  - Donald.VCR
+  - ZH.Donald.VCR
+  - balistafreak.StopDropAndRoll
+  - Mehni.PickUpAndHaul
+  - com.yayo.yayoAni.continued
+  - co.uk.epicguru.meleeanimation
+  - ZH.co.uk.epicguru.meleeanimation
+  - Fuu.BloodAnimations
+  - XMB.AncientThreat.MO
+  - SK.Milira.MeleeAnimation.fix
+  - PureMJ.MjRimMods.StorageRefillHysteresis
+  - swwu.MechanitorCommandRange
+  - gguake.ai.dsfi
+  - Spacemoth.MechTab
+  - temmie3754.manuallovin.1
+  - buyue.SimpleTextureTweaks
+  - telardo.performancepatches
+  - co.uk.epicguru.whatsthatmod
+  - Mlie.ShowModUpdates
+  - void.charactereditor
+  - Dubwise.DubsPerformanceAnalyzer.steam
+CameraSetting Applied
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Could not resolve reference to object with loadID RelationshipRecord_164003 of type RimWorld.RelationshipRecord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.VirtualPawnRelation curPathRelToParent= 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+<color=#66ffb5>[MeleeAnim]</color> Loaded 0 animation renderers on map Map-0-PlayerHome
+Could not find think node with key -2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+checking editor settings...
+bodysizes genes are active
+[Tech Advancing] [Information] Detected existing world. Loading existing config...
+[Tech Advancing] [Information] Loading config...
+[ShowModUpdates]: Last save writetime, 5/26/2025 9:49:19 PM
+Unloading 0 Unused Serialized files (Serialized files now loaded: 7)
+[ShowModUpdates]: 自 25-05-26 21:49:19 后，存档中发现 1 个 Mod 更新
+Dark Ages : Beasts and Monsters
+Life stage def HumanlikeChild not found while searching for min age of 托克 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 91158.
+Total: 1182.042100 ms (FindLiveObjects: 2.429800 ms CreateObjectMapping: 2.090800 ms MarkObjects: 1177.410000 ms  DeleteObjects: 0.111200 ms)
+
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+reinnited 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Grammar unresolvable. Root 'r_logentry'
+
+GRAMMAR RESOLUTION TRACE
+     r_logentry → UNRESOLVABLE
+
+
+BARE INCLUDES
+  recipient → [RECIPIENT_nameDef]
+  recipient → [recipient_love]
+  recipient → [recipient_love]
+  recipient → [recipient_love]
+  recipient_love → 甜心
+  recipient_love → 蜜糖
+  recipient_love → 爱
+  recipient_love → 爱宝
+  recipient_love → 小甜甜
+  recipient_love → 心肝
+  recipient_love → 宝贝
+  recipient_love → 宝宝
+  recipient_love → 小可爱
+  recipient_love → 小乖乖
+  recipient_love → 小笨蛋
+  recipient_love → 亲爱的
+  recipient_love → 小傻瓜
+  recipient_love → 意中人
+  recipient_love → 知己
+  recipient → [recipient_sibling]
+  recipient_sibling → [recipient_brother]
+  recipient_brother → 兄弟
+  recipient_sibling → [recipient_sister]
+  recipient_sister → 姐妹
+  recipient → [recipient_parent]
+  recipient_parent → [recipient_father]
+  recipient_father → 父亲
+  recipient_father → 爸爸
+  recipient_parent → [recipient_mother]
+  recipient_mother → 母亲
+  recipient_mother → 妈妈
+  recipient → [recipient_child]
+  recipient_child → 我的孩子
+  recipient_child → 亲爱的
+  recipient_child → [recipient_son]
+  recipient_son → 儿子
+  recipient_son → 我的儿子
+  recipient_child → [recipient_daughter]
+  recipient_daughter → 女儿
+  recipient_daughter → 我的女儿
+  recipient → [RECIPIENT_nameDef]
+  wanna → 想要
+  wanna → 想要
+  wanna → 想要
+  wanna → 想要
+  intensifier → 非常
+  intensifier → 特别
+  intensifier → 非常
+  intensifier → 十分
+  intensifier → 真心
+  intensifier → 非常
+  intensifier → 特别
+  intensifier → 非常
+  intensifier → 十分
+  intensifier → 非常
+  intensifier → 特别
+  intensifier → 超级
+  damned_intensifier → 
+  damned_intensifier → 他妈的
+  damned_intensifier → 狗日的
+  damned_intensifier → 炸裂的
+  damned_intensifier → 混蛋的
+  damned_intensifier → 操蛋的
+  damned_intensifier → 操蛋的
+  damned_intensifier → 该死的
+  damned_intensifier → 狗屁的
+  r_logentry → [good]
+  r_logentry → [bad]
+  good → *哈哈大笑*
+  good → *大笑*
+  good → *微笑*
+  good → *笑叹*
+  bad → *礼貌性大笑*
+  bad → *呵呵笑*
+  bad → [mid_mood]
+  mid_mood → 我早就听过这笑话了...
+  mid_mood → 呃...没多好笑...
+  bad → *无奈*
+  bad → *怒视*
+CONSTANTS
+INITIATOR_faction                      ResearchExpedition
+INITIATOR_formerlyColonist             True
+INITIATOR_flesh                        Normal
+INITIATOR_gender                       Female
+INITIATOR_genderResolved               Female
+INITIATOR_cubeInterest                 False
+RECIPIENT_faction                      ResearchExpedition
+RECIPIENT_formerlyColonist             True
+RECIPIENT_flesh                        Normal
+RECIPIENT_gender                       Female
+RECIPIENT_genderResolved               Female
+RECIPIENT_cubeInterest                 False
+
+CUSTOM RULES
+■INITIATOR_nameFull → <color=#D09B61FF>Elizabeth '伊莎贝拉' Bellucci</color>
+■INITIATOR_label → <color=#D09B61FF>伊莎贝拉</color>
+■INITIATOR_labelNoParenthesis → <color=#D09B61FF>龙娘</color>
+■INITIATOR_definite → <color=#D09B61FF>伊莎贝拉</color>
+■INITIATOR_nameDef → <color=#D09B61FF>伊莎贝拉</color>
+■INITIATOR_indefinite → <color=#D09B61FF>伊莎贝拉</color>
+■INITIATOR_nameIndef → <color=#D09B61FF>伊莎贝拉</color>
+■INITIATOR_pronoun → 她
+■INITIATOR_possessive → 她的
+■INITIATOR_objective → 她
+■INITIATOR_factionName → <color=#00BCD8FF>调查员工会</color>
+■INITIATOR_kind → 研究员
+■INITIATOR_kindPlural → 研究员
+■INITIATOR_title → 龙娘
+■INITIATOR_titleIndef → 龙娘
+■INITIATOR_titleDef → 龙娘
+■INITIATOR_age → 19
+■INITIATOR_chronologicalAge → 19
+■formerlyColonistInfo → 伊莎贝拉曾经是你的派系的一员。
+■INITIATOR_relationInfo → 
+■INITIATOR_alienRace → 龙娘
+■RECIPIENT_nameFull → <color=#D09B61FF>香草 托克</color>
+■RECIPIENT_label → <color=#D09B61FF>托克</color>
+■RECIPIENT_labelNoParenthesis → <color=#D09B61FF>绮罗族</color>
+■RECIPIENT_definite → <color=#D09B61FF>托克</color>
+■RECIPIENT_nameDef → <color=#D09B61FF>托克</color>
+■RECIPIENT_indefinite → <color=#D09B61FF>托克</color>
+■RECIPIENT_nameIndef → <color=#D09B61FF>托克</color>
+■RECIPIENT_pronoun → 她
+■RECIPIENT_possessive → 她的
+■RECIPIENT_objective → 她
+■RECIPIENT_factionName → <color=#00BCD8FF>调查员工会</color>
+■RECIPIENT_kind → kiiro refugee
+■RECIPIENT_kindPlural → kiiro refugee
+■RECIPIENT_title → 绮罗 战乱幸存者
+■RECIPIENT_titleIndef → 绮罗 战乱幸存者
+■RECIPIENT_titleDef → 绮罗 战乱幸存者
+■RECIPIENT_age → 27
+■RECIPIENT_chronologicalAge → 27
+■formerlyColonistInfo → 托克曾经是你的派系的一员。
+■RECIPIENT_relationInfo → \n\n托克是殖民者的家族成员。她是Missy的母亲。
+■RECIPIENT_alienRace → 绮罗族
+■INITIATOR_mood → 0.290825
+■INITIATOR_thoughtDefName → NeedRoomSize
+■INITIATOR_thoughtLabel → 宽敞的室内
+■INITIATOR_thoughtDefName → SelfDislikedXenotype
+■INITIATOR_thoughtLabel → 我是被反感的异种人
+■INITIATOR_thoughtDefName → PreferredXenotypeMakeup
+■INITIATOR_thoughtLabel → 殖民地有反感的异种人（许多）
+■INITIATOR_thoughtDefName → IdeoDiversity_Exalted
+■INITIATOR_thoughtLabel → 思想多样
+■INITIATOR_thoughtDefName → HasProsthetic_Abhorrent
+■INITIATOR_thoughtLabel → 拥有人造部件
+■INITIATOR_thoughtDefName → NeedComfort
+■INITIATOR_thoughtLabel → 舒适
+■INITIATOR_thoughtDefName → Expectations
+■INITIATOR_thoughtLabel → 很高的期望
+■INITIATOR_thoughtDefName → TW_AteKebab
+■INITIATOR_thoughtLabel → 吃了烤串
+■INITIATOR_thoughtDefName → AteInImpressiveDiningRoom
+■INITIATOR_thoughtLabel → 体面的餐厅
+■INITIATOR_thoughtDefName → JoyActivityInImpressiveRecRoom
+■INITIATOR_thoughtLabel → 体面的娱乐室
+■INITIATOR_thoughtDefName → SleptInBarracks
+■INITIATOR_thoughtLabel → 体面的营房
+■INITIATOR_thoughtDefName → SleepDisturbed
+■INITIATOR_thoughtLabel → 睡眠被打扰
+■INITIATOR_thoughtDefName → KnowPrisonerDiedInnocent
+■INITIATOR_thoughtLabel → 囚犯无辜死亡
+■INITIATOR_thoughtDefName → PawnWithBadOpinionDied
+■INITIATOR_thoughtLabel → 仇人{0}死亡
+■INITIATOR_thoughtDefName → EatSecondDifferentFood
+■INITIATOR_thoughtLabel → 丰富的食物
+■INITIATOR_thoughtDefName → EatFirstDifferentFood
+■INITIATOR_thoughtLabel → 吃到不同的食物
+■INITIATOR_thoughtDefName → RD_IGotJob
+■INITIATOR_thoughtLabel → 我得到工作啦
+■INITIATOR_thoughtText → 我在一间体面的餐厅用餐。
+■INITIATOR_opinion → 7
+■INITIATOR_relationship → None
+■INITIATOR_trait → <color=#66ccff>铁壁</color>
+■INITIATOR_trait → 俊俏
+■INITIATOR_trait → 异性恋
+■INITIATOR_trait → 坚韧
+■INITIATOR_bestSkill → 采矿
+■INITIATOR_worstSkill → 艺术
+■INITIATOR_higherPassion → 格斗
+■INITIATOR_智识_level → 2
+■INITIATOR_智识_passion → None
+■INITIATOR_社交_level → 1
+■INITIATOR_社交_passion → None
+■INITIATOR_医疗_level → 4
+■INITIATOR_医疗_passion → None
+■INITIATOR_艺术_level → 0
+■INITIATOR_艺术_passion → None
+■INITIATOR_手工_level → 3
+■INITIATOR_手工_passion → None
+■INITIATOR_驯兽_level → 3
+■INITIATOR_驯兽_passion → Minor
+■INITIATOR_种植_level → 2
+■INITIATOR_种植_passion → Minor
+■INITIATOR_烹饪_level → 1
+■INITIATOR_烹饪_passion → None
+■INITIATOR_采矿_level → 7
+■INITIATOR_采矿_passion → Minor
+■INITIATOR_建造_level → 1
+■INITIATOR_建造_passion → None
+■INITIATOR_格斗_level → 4
+■INITIATOR_格斗_passion → Minor
+■INITIATOR_射击_level → 4
+■INITIATOR_射击_passion → None
+■INITIATOR_childhood → 龙娘
+■INITIATOR_adulthood → 龙娘
+■INITIATOR_moving → 否
+■INITIATOR_jobDefName → SocialRelax
+■INITIATOR_jobText → 社交放松。
+■INITIATOR_seated → 否
+■INITIATOR_inventory_item → DBH_WaterBottle
+■INITIATOR_inventory_item → TW_BBQS_TribalSmokedGrill
+■INITIATOR_needs_tending → 否
+■RECIPIENT_mood → 0.47
+■RECIPIENT_thoughtDefName → SunPT_PraiseWLJ_DuringTheDay
+■RECIPIENT_thoughtLabel → 赞美董事长（白天）
+■RECIPIENT_thoughtDefName → NeedRoomSize
+■RECIPIENT_thoughtLabel → 宽敞的室内
+■RECIPIENT_thoughtDefName → Kiiro_WearingSimpleCloth
+■RECIPIENT_thoughtLabel → 粗制衣物 {0} (+1)
+■RECIPIENT_thoughtDefName → PreferredXenotypeMakeup
+■RECIPIENT_thoughtLabel → 殖民地有反感的异种人（许多）
+■RECIPIENT_thoughtDefName → GrowthVat_Prohibited_ChildNotInGrowthVat
+■RECIPIENT_thoughtLabel → 孩子不在培育舱
+■RECIPIENT_thoughtDefName → IdeoDiversity_Exalted
+■RECIPIENT_thoughtLabel → 思想多样
+■RECIPIENT_thoughtDefName → HasProsthetic_Abhorrent
+■RECIPIENT_thoughtLabel → 拥有人造部件
+■RECIPIENT_thoughtDefName → Expectations
+■RECIPIENT_thoughtLabel → 很高的期望
+■RECIPIENT_thoughtDefName → TW_AteKebab
+■RECIPIENT_thoughtLabel → 吃了烤串
+■RECIPIENT_thoughtDefName → AteInImpressiveDiningRoom
+■RECIPIENT_thoughtLabel → 体面的餐厅
+■RECIPIENT_thoughtDefName → JoyActivityInImpressiveRecRoom
+■RECIPIENT_thoughtLabel → 印象有些深刻的娱乐室
+■RECIPIENT_thoughtDefName → RebuffedMyHookupAttemptMood
+■RECIPIENT_thoughtLabel → 被{0}拒绝了
+■RECIPIENT_thoughtDefName → SleptInBarracks
+■RECIPIENT_thoughtLabel → 体面的营房
+■RECIPIENT_thoughtDefName → EatSecondDifferentFood
+■RECIPIENT_thoughtLabel → 丰富的食物
+■RECIPIENT_thoughtDefName → Kiiro_PawnWithGoodOpinionDied
+■RECIPIENT_thoughtLabel → 我的朋友 {0} 死去了
+■RECIPIENT_thoughtDefName → Kiiro_PawnWithGoodOpinionDied
+■RECIPIENT_thoughtLabel → 我的朋友 {0} 死去了
+■RECIPIENT_thoughtDefName → Kiiro_PawnWithGoodOpinionDied
+■RECIPIENT_thoughtLabel → 我的朋友 {0} 死去了
+■RECIPIENT_thoughtDefName → EatFirstDifferentFood
+■RECIPIENT_thoughtLabel → 吃到不同的食物
+■RECIPIENT_thoughtDefName → KnowPrisonerDiedInnocent
+■RECIPIENT_thoughtLabel → 囚犯无辜死亡
+■RECIPIENT_thoughtDefName → Kiiro_PawnWithBadOpinionDied
+■RECIPIENT_thoughtLabel → 我的仇人 {0} 死去了
+■RECIPIENT_thoughtDefName → AteWithoutTable
+■RECIPIENT_thoughtLabel → 在地上吃饭
+■RECIPIENT_thoughtDefName → PTS03tslxDeepTalkMood_MemorySocial
+■RECIPIENT_thoughtLabel → 雪中送炭
+■RECIPIENT_thoughtDefName → Rescued
+■RECIPIENT_thoughtLabel → 获救
+■RECIPIENT_thoughtText → 你不应该是这个结局。
+■RECIPIENT_opinion → -36
+■RECIPIENT_relationship → None
+■RECIPIENT_trait → 善良
+■RECIPIENT_trait → 双性恋
+■RECIPIENT_trait → <color=#F08080>凯文的心得</color>
+■RECIPIENT_trait → 速学者
+■RECIPIENT_bestSkill → 建造
+■RECIPIENT_worstSkill → 手工
+■RECIPIENT_higherPassion → 建造
+■RECIPIENT_智识_level → 2
+■RECIPIENT_智识_passion → None
+■RECIPIENT_社交_level → 3
+■RECIPIENT_社交_passion → None
+■RECIPIENT_医疗_level → 5
+■RECIPIENT_医疗_passion → Major
+■RECIPIENT_艺术_level → 2
+■RECIPIENT_艺术_passion → None
+■RECIPIENT_手工_level → 0
+■RECIPIENT_手工_passion → None
+■RECIPIENT_驯兽_level → 1
+■RECIPIENT_驯兽_passion → None
+■RECIPIENT_种植_level → 4
+■RECIPIENT_种植_passion → None
+■RECIPIENT_烹饪_level → 3
+■RECIPIENT_烹饪_passion → None
+■RECIPIENT_采矿_level → 3
+■RECIPIENT_采矿_passion → None
+■RECIPIENT_建造_level → 10
+■RECIPIENT_建造_passion → Major
+■RECIPIENT_格斗_level → 1
+■RECIPIENT_格斗_passion → None
+■RECIPIENT_射击_level → 4
+■RECIPIENT_射击_passion → Minor
+■RECIPIENT_childhood → 绮罗 农家小孩
+■RECIPIENT_adulthood → 绮罗 战乱幸存者
+■RECIPIENT_moving → 否
+■RECIPIENT_jobDefName → SocialRelax
+■RECIPIENT_jobText → 社交放松。
+■RECIPIENT_seated → 否
+■RECIPIENT_inventory_item → DBH_WaterBottle
+■RECIPIENT_inventory_item → TW_BBQS_Tikka
+■RECIPIENT_wearing → 心灵冲击枪
+■RECIPIENT_wearing → 熊皮粗制外套
+■RECIPIENT_wearing → 聚酯纤维粗制遮羞布
+■RECIPIENT_needs_tending → 否
+■HOUR → 13
+■DAYPERIOD → afternoon
+■WEATHER → 晴
+■TEMPERATURE → 28.03541
+■OUTDOORS → 否
+■NEAREST_plant → 菜椒
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to resolve text. Trying again with English. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Grammar unresolvable. Root 'r_logentry'
+
+GRAMMAR RESOLUTION TRACE
+     r_logentry → UNRESOLVABLE
+
+
+BARE INCLUDES
+  recipient → [RECIPIENT_nameDef]
+  recipient → [recipient_love]
+  recipient → [recipient_love]
+  recipient → [recipient_love]
+  recipient_love → 甜心
+  recipient_love → 蜜糖
+  recipient_love → 爱
+  recipient_love → 爱宝
+  recipient_love → 小甜甜
+  recipient_love → 心肝
+  recipient_love → 宝贝
+  recipient_love → 宝宝
+  recipient_love → 小可爱
+  recipient_love → 小乖乖
+  recipient_love → 小笨蛋
+  recipient_love → 亲爱的
+  recipient_love → 小傻瓜
+  recipient_love → 意中人
+  recipient_love → 知己
+  recipient → [recipient_sibling]
+  recipient_sibling → [recipient_brother]
+  recipient_brother → 兄弟
+  recipient_sibling → [recipient_sister]
+  recipient_sister → 姐妹
+  recipient → [recipient_parent]
+  recipient_parent → [recipient_father]
+  recipient_father → 父亲
+  recipient_father → 爸爸
+  recipient_parent → [recipient_mother]
+  recipient_mother → 母亲
+  recipient_mother → 妈妈
+  recipient → [recipient_child]
+  recipient_child → 我的孩子
+  recipient_child → 亲爱的
+  recipient_child → [recipient_son]
+  recipient_son → 儿子
+  recipient_son → 我的儿子
+  recipient_child → [recipient_daughter]
+  recipient_daughter → 女儿
+  recipient_daughter → 我的女儿
+  recipient → [RECIPIENT_nameDef]
+  wanna → 想要
+  wanna → 想要
+  wanna → 想要
+  wanna → 想要
+  intensifier → 非常
+  intensifier → 特别
+  intensifier → 非常
+  intensifier → 十分
+  intensifier → 真心
+  intensifier → 非常
+  intensifier → 特别
+  intensifier → 非常
+  intensifier → 十分
+  intensifier → 非常
+  intensifier → 特别
+  intensifier → 超级
+  damned_intensifier → 
+  damned_intensifier → 他妈的
+  damned_intensifier → 狗日的
+  damned_intensifier → 炸裂的
+  damned_intensifier → 混蛋的
+  damned_intensifier → 操蛋的
+  damned_intensifier → 操蛋的
+  damned_intensifier → 该死的
+  damned_intensifier → 狗屁的
+  r_logentry → [good]
+  r_logentry → [bad]
+  good → *哈哈大笑*
+  good → *大笑*
+  good → *微笑*
+  good → *笑叹*
+  bad → *礼貌性大笑*
+  bad → *呵呵笑*
+  bad → [mid_mood]
+  mid_mood → 我早就听过这笑话了...
+  mid_mood → 呃...没多好笑...
+  bad → *无奈*
+  bad → *怒视*
+CONSTANTS
+INITIATOR_faction                      ResearchExpedition
+INITIATOR_formerlyColonist             True
+INITIATOR_flesh                        Normal
+INITIATOR_gender                       Female
+INITIATOR_genderResolved               Female
+INITIATOR_cubeInterest                 False
+RECIPIENT_faction                      ResearchExpedition
+RECIPIENT_factionLeader                True
+RECIPIENT_formerlyColonist             True
+RECIPIENT_flesh                        Normal
+RECIPIENT_gender                       Male
+RECIPIENT_genderResolved               Male
+RECIPIENT_cubeInterest                 False
+
+CUSTOM RULES
+■INITIATOR_nameFull → <color=#D09B61FF>香草 托克</color>
+■INITIATOR_label → <color=#D09B61FF>托克</color>
+■INITIATOR_labelNoParenthesis → <color=#D09B61FF>绮罗族</color>
+■INITIATOR_definite → <color=#D09B61FF>托克</color>
+■INITIATOR_nameDef → <color=#D09B61FF>托克</color>
+■INITIATOR_indefinite → <color=#D09B61FF>托克</color>
+■INITIATOR_nameIndef → <color=#D09B61FF>托克</color>
+■INITIATOR_pronoun → 她
+■INITIATOR_possessive → 她的
+■INITIATOR_objective → 她
+■INITIATOR_factionName → <color=#00BCD8FF>调查员工会</color>
+■INITIATOR_kind → kiiro refugee
+■INITIATOR_kindPlural → kiiro refugee
+■INITIATOR_title → 绮罗 战乱幸存者
+■INITIATOR_titleIndef → 绮罗 战乱幸存者
+■INITIATOR_titleDef → 绮罗 战乱幸存者
+■INITIATOR_age → 27
+■INITIATOR_chronologicalAge → 27
+■formerlyColonistInfo → 托克曾经是你的派系的一员。
+■INITIATOR_relationInfo → \n\n托克是殖民者的家族成员。她是Missy的母亲。
+■INITIATOR_alienRace → 绮罗族
+■RECIPIENT_nameFull → <color=#D09B61FF>Smith '鲁贝尔' Tran</color>
+■RECIPIENT_label → <color=#D09B61FF>鲁贝尔</color>
+■RECIPIENT_labelNoParenthesis → <color=#D09B61FF>人类</color>
+■RECIPIENT_definite → <color=#D09B61FF>鲁贝尔</color>
+■RECIPIENT_nameDef → <color=#D09B61FF>鲁贝尔</color>
+■RECIPIENT_indefinite → <color=#D09B61FF>鲁贝尔</color>
+■RECIPIENT_nameIndef → <color=#D09B61FF>鲁贝尔</color>
+■RECIPIENT_pronoun → 他
+■RECIPIENT_possessive → 他的
+■RECIPIENT_objective → 他
+■RECIPIENT_factionName → <color=#00BCD8FF>调查员工会</color>
+■RECIPIENT_kind → 研究员
+■RECIPIENT_kindPlural → 研究员
+■RECIPIENT_title → 不甘寂寞的考古学家
+■RECIPIENT_titleIndef → 不甘寂寞的考古学家
+■RECIPIENT_titleDef → 不甘寂寞的考古学家
+■RECIPIENT_age → 25
+■RECIPIENT_chronologicalAge → 302
+■formerlyColonistInfo → 鲁贝尔曾经是你的派系的一员。
+■RECIPIENT_relationInfo → \n\n鲁贝尔是殖民者的家族成员。他是普洛蒂的情人。
+■RECIPIENT_alienRace → 人类
+■INITIATOR_mood → 0.4556
+■INITIATOR_thoughtDefName → SunPT_PraiseWLJ_DuringTheDay
+■INITIATOR_thoughtLabel → 赞美董事长（白天）
+■INITIATOR_thoughtDefName → NeedRoomSize
+■INITIATOR_thoughtLabel → 宽敞的室内
+■INITIATOR_thoughtDefName → Kiiro_WearingSimpleCloth
+■INITIATOR_thoughtLabel → 粗制衣物 {0} (+1)
+■INITIATOR_thoughtDefName → PreferredXenotypeMakeup
+■INITIATOR_thoughtLabel → 殖民地有反感的异种人（许多）
+■INITIATOR_thoughtDefName → GrowthVat_Prohibited_ChildNotInGrowthVat
+■INITIATOR_thoughtLabel → 孩子不在培育舱
+■INITIATOR_thoughtDefName → IdeoDiversity_Exalted
+■INITIATOR_thoughtLabel → 思想多样
+■INITIATOR_thoughtDefName → HasProsthetic_Abhorrent
+■INITIATOR_thoughtLabel → 拥有人造部件
+■INITIATOR_thoughtDefName → Expectations
+■INITIATOR_thoughtLabel → 很高的期望
+■INITIATOR_thoughtDefName → TW_AteKebab
+■INITIATOR_thoughtLabel → 吃了烤串
+■INITIATOR_thoughtDefName → AteInImpressiveDiningRoom
+■INITIATOR_thoughtLabel → 体面的餐厅
+■INITIATOR_thoughtDefName → JoyActivityInImpressiveRecRoom
+■INITIATOR_thoughtLabel → 印象有些深刻的娱乐室
+■INITIATOR_thoughtDefName → RebuffedMyHookupAttemptMood
+■INITIATOR_thoughtLabel → 被{0}拒绝了
+■INITIATOR_thoughtDefName → SleptInBarracks
+■INITIATOR_thoughtLabel → 体面的营房
+■INITIATOR_thoughtDefName → EatSecondDifferentFood
+■INITIATOR_thoughtLabel → 丰富的食物
+■INITIATOR_thoughtDefName → Kiiro_PawnWithGoodOpinionDied
+■INITIATOR_thoughtLabel → 我的朋友 {0} 死去了
+■INITIATOR_thoughtDefName → Kiiro_PawnWithGoodOpinionDied
+■INITIATOR_thoughtLabel → 我的朋友 {0} 死去了
+■INITIATOR_thoughtDefName → Kiiro_PawnWithGoodOpinionDied
+■INITIATOR_thoughtLabel → 我的朋友 {0} 死去了
+■INITIATOR_thoughtDefName → EatFirstDifferentFood
+■INITIATOR_thoughtLabel → 吃到不同的食物
+■INITIATOR_thoughtDefName → KnowPrisonerDiedInnocent
+■INITIATOR_thoughtLabel → 囚犯无辜死亡
+■INITIATOR_thoughtDefName → Kiiro_PawnWithBadOpinionDied
+■INITIATOR_thoughtLabel → 我的仇人 {0} 死去了
+■INITIATOR_thoughtDefName → AteWithoutTable
+■INITIATOR_thoughtLabel → 在地上吃饭
+■INITIATOR_thoughtDefName → PTS03tslxDeepTalkMood_MemorySocial
+■INITIATOR_thoughtLabel → 雪中送炭
+■INITIATOR_thoughtDefName → Rescued
+■INITIATOR_thoughtLabel → 获救
+■INITIATOR_thoughtText → 这真是一间让人感到舒服的大房间。
+■INITIATOR_opinion → 47
+■INITIATOR_relationship → None
+■INITIATOR_trait → 善良
+■INITIATOR_trait → 双性恋
+■INITIATOR_trait → <color=#F08080>凯文的心得</color>
+■INITIATOR_trait → 速学者
+■INITIATOR_bestSkill → 建造
+■INITIATOR_worstSkill → 手工
+■INITIATOR_higherPassion → 建造
+■INITIATOR_智识_level → 2
+■INITIATOR_智识_passion → None
+■INITIATOR_社交_level → 3
+■INITIATOR_社交_passion → None
+■INITIATOR_医疗_level → 5
+■INITIATOR_医疗_passion → Major
+■INITIATOR_艺术_level → 2
+■INITIATOR_艺术_passion → None
+■INITIATOR_手工_level → 0
+■INITIATOR_手工_passion → None
+■INITIATOR_驯兽_level → 1
+■INITIATOR_驯兽_passion → None
+■INITIATOR_种植_level → 4
+■INITIATOR_种植_passion → None
+■INITIATOR_烹饪_level → 3
+■INITIATOR_烹饪_passion → None
+■INITIATOR_采矿_level → 3
+■INITIATOR_采矿_passion → None
+■INITIATOR_建造_level → 10
+■INITIATOR_建造_passion → Major
+■INITIATOR_格斗_level → 1
+■INITIATOR_格斗_passion → None
+■INITIATOR_射击_level → 4
+■INITIATOR_射击_passion → Minor
+■INITIATOR_childhood → 绮罗 农家小孩
+■INITIATOR_adulthood → 绮罗 战乱幸存者
+■INITIATOR_moving → 否
+■INITIATOR_jobDefName → SocialRelax
+■INITIATOR_jobText → 社交放松。
+■INITIATOR_seated → 否
+■INITIATOR_inventory_item → DBH_WaterBottle
+■INITIATOR_inventory_item → TW_BBQS_Tikka
+■INITIATOR_wearing → 心灵冲击枪
+■INITIATOR_wearing → 熊皮粗制外套
+■INITIATOR_wearing → 聚酯纤维粗制遮羞布
+■INITIATOR_needs_tending → 否
+■RECIPIENT_mood → 0.428
+■RECIPIENT_thoughtDefName → NeedRoomSize
+■RECIPIENT_thoughtLabel → 宽敞的室内
+■RECIPIENT_thoughtDefName → IdeoBuildingMissing
+■RECIPIENT_thoughtLabel → 缺少{BUILDING_label}
+■RECIPIENT_thoughtDefName → IdeoBuildingDisrespected
+■RECIPIENT_thoughtLabel → 不尊敬{BUILDING_labelCap}
+■RECIPIENT_thoughtDefName → IdeoRoleEmpty
+■RECIPIENT_thoughtLabel → 没有{ROLE_label}
+■RECIPIENT_thoughtDefName → VME_Mood_HighExpectations
+■RECIPIENT_thoughtLabel → 好心情
+■RECIPIENT_thoughtDefName → MoodOffsetVeryHappy
+■RECIPIENT_thoughtLabel → 天性豁达
+■RECIPIENT_thoughtDefName → LookChangeDesired
+■RECIPIENT_thoughtLabel → 渴求样貌的改变
+■RECIPIENT_thoughtDefName → IdeoDiversity_Disapproved
+■RECIPIENT_thoughtLabel → 思想多样
+■RECIPIENT_thoughtDefName → MoodOffsetSanguine
+■RECIPIENT_thoughtLabel → 乐天派
+■RECIPIENT_thoughtDefName → OpinionOfMyLover
+■RECIPIENT_thoughtLabel → 与{0}{1}一起的感觉
+■RECIPIENT_thoughtDefName → NeedJoy
+■RECIPIENT_thoughtLabel → 丰富的娱乐活动
+■RECIPIENT_thoughtDefName → Expectations
+■RECIPIENT_thoughtLabel → 精英的期望
+■RECIPIENT_thoughtDefName → EatFirstDifferentFood
+■RECIPIENT_thoughtLabel → 吃到不同的食物
+■RECIPIENT_thoughtDefName → TW_AteKebab
+■RECIPIENT_thoughtLabel → 吃了烤串
+■RECIPIENT_thoughtDefName → RomanceOnTheRim_RomanticKissMood
+■RECIPIENT_thoughtLabel → 浪漫的吻
+■RECIPIENT_thoughtDefName → EatSecondDifferentFood
+■RECIPIENT_thoughtLabel → 丰富的食物
+■RECIPIENT_thoughtDefName → AteWithoutTable
+■RECIPIENT_thoughtLabel → 在地上吃饭
+■RECIPIENT_thoughtText → 尝到了这么多丰富的食物，我的生活充满了色彩！
+■RECIPIENT_opinion → 20
+■RECIPIENT_relationship → None
+■RECIPIENT_trait → 坚韧
+■RECIPIENT_trait → 异性恋
+■RECIPIENT_trait → 乐天派
+■RECIPIENT_trait → 意志如钢
+■RECIPIENT_trait → <color=#FFCC66><i>大师</i></color>
+■RECIPIENT_bestSkill → 种植
+■RECIPIENT_worstSkill → 艺术
+■RECIPIENT_higherPassion → 射击
+■RECIPIENT_智识_level → 8
+■RECIPIENT_智识_passion → Minor
+■RECIPIENT_社交_level → 8
+■RECIPIENT_社交_passion → None
+■RECIPIENT_医疗_level → 5
+■RECIPIENT_医疗_passion → Minor
+■RECIPIENT_艺术_level → 4
+■RECIPIENT_艺术_passion → None
+■RECIPIENT_手工_level → 4
+■RECIPIENT_手工_passion → Minor
+■RECIPIENT_驯兽_level → 11
+■RECIPIENT_驯兽_passion → None
+■RECIPIENT_种植_level → 15
+■RECIPIENT_种植_passion → None
+■RECIPIENT_烹饪_level → 8
+■RECIPIENT_烹饪_passion → None
+■RECIPIENT_采矿_level → 11
+■RECIPIENT_采矿_passion → None
+■RECIPIENT_建造_level → 8
+■RECIPIENT_建造_passion → None
+■RECIPIENT_格斗_level → 7
+■RECIPIENT_格斗_passion → Minor
+■RECIPIENT_射击_level → 10
+■RECIPIENT_射击_passion → Minor
+■RECIPIENT_childhood → 中寰世界军校生
+■RECIPIENT_adulthood → 不甘寂寞的考古学家
+■RECIPIENT_moving → 否
+■RECIPIENT_jobDefName → SocialRelax
+■RECIPIENT_jobText → 社交放松。
+■RECIPIENT_seated → 否
+■RECIPIENT_inventory_item → DBH_WaterBottle
+■RECIPIENT_inventory_item → TW_BBQS_TribalSmokedGrill
+■RECIPIENT_inventory_item → TW_BBQS_TandooriGrill
+■RECIPIENT_inventory_item → CAT_MonoStellicSwordBladelink
+■RECIPIENT_wearing → 影响力 地狱鳞状皮围巾
+■RECIPIENT_wearing → 过载 高级护盾腰带
+■RECIPIENT_wearing → 影响力(+1) 塑钢纤维强袭斗篷
+■RECIPIENT_wearing → 电镀 玻璃钢机械颈环
+■RECIPIENT_wearing → 冥想 硬甲壳皮靴
+■RECIPIENT_wearing → 吸收 重型鳞状皮手套
+■RECIPIENT_wearing → 电镀 冠禽石羽裤子
+■RECIPIENT_wearing → 冥想(+1) 重型鳞状皮衬衫
+■RECIPIENT_needs_tending → 否
+■HOUR → 13
+■DAYPERIOD → afternoon
+■WEATHER → 晴
+■TEMPERATURE → 28.05596
+■OUTDOORS → 否
+■NEAREST_plant → 菜椒
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to resolve text. Trying again with English. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Opened: Verse.StandardLetter
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Opened: Verse.StandardLetter
+Guest group arrived, but there are no guest beds and the player asked to wait until they are built.
+QuestNode_ResearchFinished
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Opened: Verse.StandardLetter
+Min possible bio age (1.989717) is greater than max possible bio age (0.8855629). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Grammar unresolvable. Root 'r_logentry'
+
+GRAMMAR RESOLUTION TRACE
+1    r_logentry → [good_opinion]
+2      good_opinion → 我也觉得，[recipient]。[outside_inside]
+3        recipient → [RECIPIENT_nameDef]
+4          RECIPIENT_nameDef → <color=#D09B61FF>Lynx</color>
+3        outside_inside → [temperature]
+4          temperature → 但冷得要冻僵了[plants1]
+             plants1 → UNRESOLVABLE
+           temperature → UNRESOLVABLE
+         outside_inside → UNRESOLVABLE
+       good_opinion → UNRESOLVABLE
+     r_logentry → UNRESOLVABLE
+
+
+BARE INCLUDES
+  recipient → [RECIPIENT_nameDef]
+  recipient → [recipient_love]
+  recipient → [recipient_love]
+  recipient → [recipient_love]
+  recipient_love → 甜心
+  recipient_love → 蜜糖
+  recipient_love → 爱
+  recipient_love → 爱宝
+  recipient_love → 小甜甜
+  recipient_love → 心肝
+  recipient_love → 宝贝
+  recipient_love → 宝宝
+  recipient_love → 小可爱
+  recipient_love → 小乖乖
+  recipient_love → 小笨蛋
+  recipient_love → 亲爱的
+  recipient_love → 小傻瓜
+  recipient_love → 意中人
+  recipient_love → 知己
+  recipient → [recipient_sibling]
+  recipient_sibling → [recipient_brother]
+  recipient_brother → 兄弟
+  recipient_sibling → [recipient_sister]
+  recipient_sister → 姐妹
+  recipient → [recipient_parent]
+  recipient_parent → [recipient_father]
+  recipient_father → 父亲
+  recipient_father → 爸爸
+  recipient_parent → [recipient_mother]
+  recipient_mother → 母亲
+  recipient_mother → 妈妈
+  recipient → [recipient_child]
+  recipient_child → 我的孩子
+  recipient_child → 亲爱的
+  recipient_child → [recipient_son]
+  recipient_son → 儿子
+  recipient_son → 我的儿子
+  recipient_child → [recipient_daughter]
+  recipient_daughter → 女儿
+  recipient_daughter → 我的女儿
+  recipient → [RECIPIENT_nameDef]
+  wanna → 想要
+  wanna → 想要
+  wanna → 想要
+  wanna → 想要
+  intensifier → 非常
+  intensifier → 特别
+  intensifier → 非常
+  intensifier → 十分
+  intensifier → 真心
+  intensifier → 非常
+  intensifier → 特别
+  intensifier → 非常
+  intensifier → 十分
+  intensifier → 非常
+  intensifier → 特别
+  intensifier → 超级
+  damned_intensifier → 
+  damned_intensifier → 他妈的
+  damned_intensifier → 狗日的
+  damned_intensifier → 炸裂的
+  damned_intensifier → 混蛋的
+  damned_intensifier → 操蛋的
+  damned_intensifier → 操蛋的
+  damned_intensifier → 该死的
+  damned_intensifier → 狗屁的
+  r_logentry → ...
+  r_logentry → [good_opinion]
+  good_opinion → [i_undergrounder]
+  i_undergrounder → 我不关心外面什么天气，[recipient]...
+  good_opinion → 我希望我能出去看看！
+  good_opinion → 我也觉得，[recipient]。[outside_inside]
+  outside_inside → [temperature]
+  temperature → 今天[timezone]非常热，但还能承受。
+  temperature → 现在是温暖晴朗的[timezone]，太舒服了！
+  temperature → 现在不冷也不热，完美的[timezone]！
+  temperature → 有点冷，但还是一个[nice][timezone]。
+  temperature → 但冷得要冻僵了[plants1]
+  temperature → 但冰冷刺骨呀[plants2]
+  plants1 → ！
+  plants2 → ！
+  plants1 → ，野外的植物难以生长。
+  plants2 → ，野外的植物可能会冻死。
+  timezone → 早上
+  timezone → 下午
+  timezone → 夜晚
+  timezone → 午夜
+  outside_inside → [outside]
+  outside → 能有这么[nice]天气真是太好了！
+  outside → 有这么[nice]的天气大家都能享受！
+  nice → 不错的
+  nice → 美好的
+  nice → 舒服的
+  nice → 绝妙的
+  nice → 美妙的
+  nice → 惬意的
+CONSTANTS
+INITIATOR_faction                      Milira_AngelismChurch
+INITIATOR_flesh                        Normal
+INITIATOR_gender                       Female
+INITIATOR_genderResolved               Female
+INITIATOR_cubeInterest                 False
+RECIPIENT_faction                      Milira_AngelismChurch
+RECIPIENT_flesh                        Normal
+RECIPIENT_gender                       Female
+RECIPIENT_genderResolved               Female
+RECIPIENT_cubeInterest                 False
+
+CUSTOM RULES
+■INITIATOR_nameFull → <color=#D09B61FF>泽娜 戴欧多波</color>
+■INITIATOR_label → <color=#D09B61FF>戴欧多波</color>
+■INITIATOR_labelNoParenthesis → <color=#D09B61FF>人类</color>
+■INITIATOR_definite → <color=#D09B61FF>戴欧多波</color>
+■INITIATOR_nameDef → <color=#D09B61FF>戴欧多波</color>
+■INITIATOR_indefinite → <color=#D09B61FF>戴欧多波</color>
+■INITIATOR_nameIndef → <color=#D09B61FF>戴欧多波</color>
+■INITIATOR_pronoun → 她
+■INITIATOR_possessive → 她的
+■INITIATOR_objective → 她
+■INITIATOR_factionName → <color=#00BFFFFF>天羽教会</color>
+■INITIATOR_kind → 城镇守卫
+■INITIATOR_kindPlural → 城镇守卫
+■INITIATOR_title → 伐木工
+■INITIATOR_titleIndef → 伐木工
+■INITIATOR_titleDef → 伐木工
+■INITIATOR_age → 27
+■INITIATOR_chronologicalAge → 27
+■INITIATOR_relationInfo → 
+■INITIATOR_alienRace → 人类
+■RECIPIENT_nameFull → <color=#D09B61FF>Rebecca 'Lynx' Edwards</color>
+■RECIPIENT_label → <color=#D09B61FF>Lynx</color>
+■RECIPIENT_labelNoParenthesis → <color=#D09B61FF>人类</color>
+■RECIPIENT_definite → <color=#D09B61FF>Lynx</color>
+■RECIPIENT_nameDef → <color=#D09B61FF>Lynx</color>
+■RECIPIENT_indefinite → <color=#D09B61FF>Lynx</color>
+■RECIPIENT_nameIndef → <color=#D09B61FF>Lynx</color>
+■RECIPIENT_pronoun → 她
+■RECIPIENT_possessive → 她的
+■RECIPIENT_objective → 她
+■RECIPIENT_factionName → <color=#00BFFFFF>天羽教会</color>
+■RECIPIENT_kind → 雇佣枪手
+■RECIPIENT_kindPlural → 雇佣枪手
+■RECIPIENT_title → 基因工程测试对象
+■RECIPIENT_titleIndef → 基因工程测试对象
+■RECIPIENT_titleDef → 基因工程测试对象
+■RECIPIENT_age → 45
+■RECIPIENT_chronologicalAge → 45
+■RECIPIENT_relationInfo → 
+■RECIPIENT_alienRace → 人类
+■INITIATOR_mood → 0.6
+■INITIATOR_thoughtDefName → ChildLabor_Encouraged_ChildAssignedRecreation
+■INITIATOR_thoughtLabel → 孩子被指派玩乐
+■INITIATOR_thoughtDefName → WearingDesiredApparel_Soft
+■INITIATOR_thoughtLabel → 穿着{APPAREL}
+■INITIATOR_thoughtDefName → Expectations
+■INITIATOR_thoughtLabel → 极低的期望
+■INITIATOR_thoughtText → 为什么我们要让孩子们在游戏中浪费他们的青春？
+■INITIATOR_opinion → 2
+■INITIATOR_relationship → None
+■INITIATOR_trait → 双性恋
+■INITIATOR_trait → 丑陋
+■INITIATOR_trait → <color=#33ff00>铁匠</color>
+■INITIATOR_bestSkill → 种植
+■INITIATOR_worstSkill → 射击
+■INITIATOR_higherPassion → 种植
+■INITIATOR_智识_level → 5
+■INITIATOR_智识_passion → Minor
+■INITIATOR_社交_level → 9
+■INITIATOR_社交_passion → Minor
+■INITIATOR_医疗_level → 2
+■INITIATOR_医疗_passion → None
+■INITIATOR_艺术_level → 1
+■INITIATOR_艺术_passion → None
+■INITIATOR_手工_level → 0
+■INITIATOR_手工_passion → None
+■INITIATOR_驯兽_level → 0
+■INITIATOR_驯兽_passion → None
+■INITIATOR_种植_level → 11
+■INITIATOR_种植_passion → Minor
+■INITIATOR_烹饪_level → 0
+■INITIATOR_烹饪_passion → None
+■INITIATOR_采矿_level → 0
+■INITIATOR_采矿_passion → None
+■INITIATOR_建造_level → 2
+■INITIATOR_建造_passion → None
+■INITIATOR_格斗_level → 0
+■INITIATOR_格斗_passion → None
+■INITIATOR_射击_level → 0
+■INITIATOR_射击_passion → None
+■INITIATOR_childhood → 商店的小店主
+■INITIATOR_adulthood → 伐木工
+■INITIATOR_moving → 是
+■INITIATOR_jobDefName → GotoWander
+■INITIATOR_jobText → 闲逛中。
+■INITIATOR_seated → 否
+■INITIATOR_inventory_item → MealSimple
+■INITIATOR_wearing → 钢铁假面
+■INITIATOR_wearing → 舒适 布风雪大衣
+■INITIATOR_wearing → 布手套
+■INITIATOR_wearing → 布背带式工装裤
+■INITIATOR_wearing → 野牛毛连身衣裤
+■INITIATOR_needs_tending → 否
+■RECIPIENT_mood → 0.6
+■RECIPIENT_thoughtDefName → ChildLabor_Encouraged_ChildAssignedRecreation
+■RECIPIENT_thoughtLabel → 孩子被指派玩乐
+■RECIPIENT_thoughtDefName → WearingDesiredApparel_Soft
+■RECIPIENT_thoughtLabel → 穿着{APPAREL}
+■RECIPIENT_thoughtDefName → Expectations
+■RECIPIENT_thoughtLabel → 极低的期望
+■RECIPIENT_thoughtText → 我必须如钢铁般坚强才能活下去。
+■RECIPIENT_opinion → -13
+■RECIPIENT_relationship → None
+■RECIPIENT_trait → 无性恋
+■RECIPIENT_trait → <color=#66ccff>滑稽</color>
+■RECIPIENT_trait → 纯粹主义
+■RECIPIENT_bestSkill → 格斗
+■RECIPIENT_worstSkill → 采矿
+■RECIPIENT_higherPassion → 射击
+■RECIPIENT_智识_level → 0
+■RECIPIENT_智识_passion → None
+■RECIPIENT_社交_level → 0
+■RECIPIENT_社交_passion → None
+■RECIPIENT_医疗_level → 5
+■RECIPIENT_医疗_passion → Minor
+■RECIPIENT_艺术_level → 7
+■RECIPIENT_艺术_passion → Minor
+■RECIPIENT_手工_level → 1
+■RECIPIENT_手工_passion → None
+■RECIPIENT_驯兽_level → 3
+■RECIPIENT_驯兽_passion → None
+■RECIPIENT_种植_level → 2
+■RECIPIENT_种植_passion → None
+■RECIPIENT_烹饪_level → 2
+■RECIPIENT_烹饪_passion → None
+■RECIPIENT_采矿_level → 0
+■RECIPIENT_采矿_passion → None
+■RECIPIENT_建造_level → 1
+■RECIPIENT_建造_passion → None
+■RECIPIENT_格斗_level → 12
+■RECIPIENT_格斗_passion → Major
+■RECIPIENT_射击_level → 10
+■RECIPIENT_射击_passion → Major
+■RECIPIENT_childhood → 被宠坏的孩子
+■RECIPIENT_adulthood → 基因工程测试对象
+■RECIPIENT_moving → 否
+■RECIPIENT_jobDefName → Wait_Wander
+■RECIPIENT_jobText → 闲逛中。
+■RECIPIENT_seated → 否
+■RECIPIENT_inventory_item → MealFine
+■RECIPIENT_wearing → 钢铁假面
+■RECIPIENT_wearing → 大地懒毛防尘大衣
+■RECIPIENT_wearing → 加速 克雷什布耳塞护石
+■RECIPIENT_wearing → 矮羊毛手套
+■RECIPIENT_wearing → 防弹裤
+■RECIPIENT_wearing → 钢铁战术装具
+■RECIPIENT_wearing → 聚酯纤维便装T恤
+■RECIPIENT_needs_tending → 否
+■HOUR → 5
+■DAYPERIOD → morning
+■WEATHER → 晴
+■TEMPERATURE → 4.491874
+■OUTDOORS → 是
+■NEAREST_plant → 草
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to resolve text. Trying again with English. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Grammar unresolvable. Root 'r_logentry'
+
+GRAMMAR RESOLUTION TRACE
+1    r_logentry → [good_opinion]
+2      good_opinion → 我也觉得，[recipient]。[outside_inside]
+3        recipient → [RECIPIENT_nameDef]
+4          RECIPIENT_nameDef → <color=#D09B61FF>阿方索</color>
+3        outside_inside → [temperature]
+4          temperature → 但冷得要冻僵了[plants1]
+             plants1 → UNRESOLVABLE
+           temperature → UNRESOLVABLE
+         outside_inside → UNRESOLVABLE
+       good_opinion → UNRESOLVABLE
+     r_logentry → UNRESOLVABLE
+
+
+BARE INCLUDES
+  recipient → [RECIPIENT_nameDef]
+  recipient → [recipient_love]
+  recipient → [recipient_love]
+  recipient → [recipient_love]
+  recipient_love → 甜心
+  recipient_love → 蜜糖
+  recipient_love → 爱
+  recipient_love → 爱宝
+  recipient_love → 小甜甜
+  recipient_love → 心肝
+  recipient_love → 宝贝
+  recipient_love → 宝宝
+  recipient_love → 小可爱
+  recipient_love → 小乖乖
+  recipient_love → 小笨蛋
+  recipient_love → 亲爱的
+  recipient_love → 小傻瓜
+  recipient_love → 意中人
+  recipient_love → 知己
+  recipient → [recipient_sibling]
+  recipient_sibling → [recipient_brother]
+  recipient_brother → 兄弟
+  recipient_sibling → [recipient_sister]
+  recipient_sister → 姐妹
+  recipient → [recipient_parent]
+  recipient_parent → [recipient_father]
+  recipient_father → 父亲
+  recipient_father → 爸爸
+  recipient_parent → [recipient_mother]
+  recipient_mother → 母亲
+  recipient_mother → 妈妈
+  recipient → [recipient_child]
+  recipient_child → 我的孩子
+  recipient_child → 亲爱的
+  recipient_child → [recipient_son]
+  recipient_son → 儿子
+  recipient_son → 我的儿子
+  recipient_child → [recipient_daughter]
+  recipient_daughter → 女儿
+  recipient_daughter → 我的女儿
+  recipient → [RECIPIENT_nameDef]
+  wanna → 想要
+  wanna → 想要
+  wanna → 想要
+  wanna → 想要
+  intensifier → 非常
+  intensifier → 特别
+  intensifier → 非常
+  intensifier → 十分
+  intensifier → 真心
+  intensifier → 非常
+  intensifier → 特别
+  intensifier → 非常
+  intensifier → 十分
+  intensifier → 非常
+  intensifier → 特别
+  intensifier → 超级
+  damned_intensifier → 
+  damned_intensifier → 他妈的
+  damned_intensifier → 狗日的
+  damned_intensifier → 炸裂的
+  damned_intensifier → 混蛋的
+  damned_intensifier → 操蛋的
+  damned_intensifier → 操蛋的
+  damned_intensifier → 该死的
+  damned_intensifier → 狗屁的
+  r_logentry → ...
+  r_logentry → [good_opinion]
+  good_opinion → [i_undergrounder]
+  i_undergrounder → 我不关心外面什么天气，[recipient]...
+  good_opinion → 我希望我能出去看看！
+  good_opinion → 我也觉得，[recipient]。[outside_inside]
+  outside_inside → [temperature]
+  temperature → 今天[timezone]非常热，但还能承受。
+  temperature → 现在是温暖晴朗的[timezone]，太舒服了！
+  temperature → 现在不冷也不热，完美的[timezone]！
+  temperature → 有点冷，但还是一个[nice][timezone]。
+  temperature → 但冷得要冻僵了[plants1]
+  temperature → 但冰冷刺骨呀[plants2]
+  plants1 → ！
+  plants2 → ！
+  plants1 → ，野外的植物难以生长。
+  plants2 → ，野外的植物可能会冻死。
+  timezone → 早上
+  timezone → 下午
+  timezone → 夜晚
+  timezone → 午夜
+  outside_inside → [outside]
+  outside → 能有这么[nice]天气真是太好了！
+  outside → 有这么[nice]的天气大家都能享受！
+  nice → 不错的
+  nice → 美好的
+  nice → 舒服的
+  nice → 绝妙的
+  nice → 美妙的
+  nice → 惬意的
+CONSTANTS
+INITIATOR_faction                      Milira_AngelismChurch
+INITIATOR_flesh                        Normal
+INITIATOR_gender                       Female
+INITIATOR_genderResolved               Female
+INITIATOR_cubeInterest                 False
+RECIPIENT_faction                      Milira_AngelismChurch
+RECIPIENT_flesh                        Normal
+RECIPIENT_gender                       Male
+RECIPIENT_genderResolved               Male
+RECIPIENT_cubeInterest                 False
+
+CUSTOM RULES
+■INITIATOR_nameFull → <color=#D09B61FF>努美利娅 柯美纳</color>
+■INITIATOR_label → <color=#D09B61FF>柯美纳</color>
+■INITIATOR_labelNoParenthesis → <color=#D09B61FF>人类</color>
+■INITIATOR_definite → <color=#D09B61FF>柯美纳</color>
+■INITIATOR_nameDef → <color=#D09B61FF>柯美纳</color>
+■INITIATOR_indefinite → <color=#D09B61FF>柯美纳</color>
+■INITIATOR_nameIndef → <color=#D09B61FF>柯美纳</color>
+■INITIATOR_pronoun → 她
+■INITIATOR_possessive → 她的
+■INITIATOR_objective → 她
+■INITIATOR_factionName → <color=#00BFFFFF>天羽教会</color>
+■INITIATOR_kind → 城镇居民
+■INITIATOR_kindPlural → 城镇居民
+■INITIATOR_title → 爆破专家
+■INITIATOR_titleIndef → 爆破专家
+■INITIATOR_titleDef → 爆破专家
+■INITIATOR_age → 30
+■INITIATOR_chronologicalAge → 30
+■INITIATOR_relationInfo → 
+■INITIATOR_alienRace → 人类
+■RECIPIENT_nameFull → <color=#D09B61FF>达米安努斯 阿方索</color>
+■RECIPIENT_label → <color=#D09B61FF>阿方索</color>
+■RECIPIENT_labelNoParenthesis → <color=#D09B61FF>人类</color>
+■RECIPIENT_definite → <color=#D09B61FF>阿方索</color>
+■RECIPIENT_nameDef → <color=#D09B61FF>阿方索</color>
+■RECIPIENT_indefinite → <color=#D09B61FF>阿方索</color>
+■RECIPIENT_nameIndef → <color=#D09B61FF>阿方索</color>
+■RECIPIENT_pronoun → 他
+■RECIPIENT_possessive → 他的
+■RECIPIENT_objective → 他
+■RECIPIENT_factionName → <color=#00BFFFFF>天羽教会</color>
+■RECIPIENT_kind → 城镇守卫
+■RECIPIENT_kindPlural → 城镇守卫
+■RECIPIENT_title → 体弱多病的孩子
+■RECIPIENT_titleIndef → 体弱多病的孩子
+■RECIPIENT_titleDef → 体弱多病的孩子
+■RECIPIENT_age → 15
+■RECIPIENT_chronologicalAge → 15
+■RECIPIENT_relationInfo → 
+■RECIPIENT_alienRace → 人类
+■INITIATOR_mood → 0.64
+■INITIATOR_thoughtDefName → PTA13rqMoodOffset
+■INITIATOR_thoughtLabel → 热情似火
+■INITIATOR_thoughtDefName → ChildLabor_Encouraged_ChildAssignedRecreation
+■INITIATOR_thoughtLabel → 孩子被指派玩乐
+■INITIATOR_thoughtDefName → WearingDesiredApparel_Soft
+■INITIATOR_thoughtLabel → 穿着{APPAREL}
+■INITIATOR_thoughtDefName → Expectations
+■INITIATOR_thoughtLabel → 极低的期望
+■INITIATOR_thoughtDefName → RebuffedMyRomanceAttemptMood
+■INITIATOR_thoughtLabel → 被{0}拒绝
+■INITIATOR_thoughtText → 为什么我们要让孩子们在游戏中浪费他们的青春？
+■INITIATOR_opinion → 1
+■INITIATOR_relationship → None
+■INITIATOR_trait → 脆弱
+■INITIATOR_trait → 懦弱
+■INITIATOR_trait → 双性恋
+■INITIATOR_trait → <color=#33ff00>魔法少女</color>
+■INITIATOR_trait → <color=#33ff00>热情</color>
+■INITIATOR_trait → 坚韧
+■INITIATOR_bestSkill → 采矿
+■INITIATOR_worstSkill → 射击
+■INITIATOR_higherPassion → 采矿
+■INITIATOR_智识_level → 9
+■INITIATOR_智识_passion → Major
+■INITIATOR_社交_level → 1
+■INITIATOR_社交_passion → None
+■INITIATOR_医疗_level → 4
+■INITIATOR_医疗_passion → Minor
+■INITIATOR_艺术_level → 3
+■INITIATOR_艺术_passion → None
+■INITIATOR_手工_level → 1
+■INITIATOR_手工_passion → Minor
+■INITIATOR_驯兽_level → 2
+■INITIATOR_驯兽_passion → None
+■INITIATOR_种植_level → 4
+■INITIATOR_种植_passion → Minor
+■INITIATOR_烹饪_level → 4
+■INITIATOR_烹饪_passion → Minor
+■INITIATOR_采矿_level → 9
+■INITIATOR_采矿_passion → Major
+■INITIATOR_建造_level → 3
+■INITIATOR_建造_passion → None
+■INITIATOR_格斗_level → 0
+■INITIATOR_格斗_passion → None
+■INITIATOR_射击_level → 0
+■INITIATOR_射击_passion → None
+■INITIATOR_childhood → 侍从
+■INITIATOR_adulthood → 爆破专家
+■INITIATOR_moving → 是
+■INITIATOR_jobDefName → GotoWander
+■INITIATOR_jobText → 闲逛中。
+■INITIATOR_seated → 否
+■INITIATOR_inventory_item → MealSurvivalPack
+■INITIATOR_wearing → 钢铁假面
+■INITIATOR_wearing → 布PKC Checked Hood
+■INITIATOR_wearing → 克雷什布田园毛衣
+■INITIATOR_wearing → 遮蔽 聚酯纤维裤子
+■INITIATOR_wearing → 布便装T恤
+■INITIATOR_needs_tending → 否
+■RECIPIENT_mood → 0.54
+■RECIPIENT_thoughtDefName → ChildLabor_Encouraged_ChildAssignedRecreation
+■RECIPIENT_thoughtLabel → 孩子被指派玩乐
+■RECIPIENT_thoughtDefName → WearingDesiredApparel_Soft
+■RECIPIENT_thoughtLabel → 穿着{APPAREL}
+■RECIPIENT_thoughtDefName → MoodOffsetPessimist
+■RECIPIENT_thoughtLabel → 悲观
+■RECIPIENT_thoughtDefName → Expectations
+■RECIPIENT_thoughtLabel → 极低的期望
+■RECIPIENT_thoughtText → 「悲观」特性带来的心情惩罚。
+■RECIPIENT_opinion → 1
+■RECIPIENT_relationship → None
+■RECIPIENT_trait → 无性恋
+■RECIPIENT_trait → 意志紧张
+■RECIPIENT_trait → 悲观
+■RECIPIENT_trait → 过目不忘
+■RECIPIENT_bestSkill → 智识
+■RECIPIENT_worstSkill → 格斗
+■RECIPIENT_higherPassion → 医疗
+■RECIPIENT_智识_level → 8
+■RECIPIENT_智识_passion → Major
+■RECIPIENT_社交_level → 0
+■RECIPIENT_社交_passion → None
+■RECIPIENT_医疗_level → 7
+■RECIPIENT_医疗_passion → Major
+■RECIPIENT_艺术_level → 3
+■RECIPIENT_艺术_passion → None
+■RECIPIENT_手工_level → 2
+■RECIPIENT_手工_passion → None
+■RECIPIENT_驯兽_level → 1
+■RECIPIENT_驯兽_passion → None
+■RECIPIENT_种植_level → 0
+■RECIPIENT_种植_passion → None
+■RECIPIENT_烹饪_level → 0
+■RECIPIENT_烹饪_passion → None
+■RECIPIENT_采矿_level → 1
+■RECIPIENT_采矿_passion → None
+■RECIPIENT_建造_level → 0
+■RECIPIENT_建造_passion → None
+■RECIPIENT_格斗_level → 0
+■RECIPIENT_格斗_passion → None
+■RECIPIENT_射击_level → 3
+■RECIPIENT_射击_passion → Minor
+■RECIPIENT_childhood → 体弱多病的孩子
+■RECIPIENT_moving → 是
+■RECIPIENT_jobDefName → GotoWander
+■RECIPIENT_jobText → 闲逛中。
+■RECIPIENT_seated → 否
+■RECIPIENT_inventory_item → MealSimple
+■RECIPIENT_wearing → 钢铁假面
+■RECIPIENT_wearing → 布军装贝雷帽
+■RECIPIENT_wearing → 羊驼毛风雪大衣
+■RECIPIENT_wearing → 大地懒毛裤子
+■RECIPIENT_wearing → 可调节 克雷什布衬衫
+■RECIPIENT_needs_tending → 否
+■HOUR → 5
+■DAYPERIOD → morning
+■WEATHER → 晴
+■TEMPERATURE → 4.53268
+■OUTDOORS → 是
+■NEAREST_plant → 草
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to resolve text. Trying again with English. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Grammar unresolvable. Root 'r_logentry'
+
+GRAMMAR RESOLUTION TRACE
+1    r_logentry → [good_opinion]
+2      good_opinion → 我也觉得，[recipient]。[outside_inside]
+3        recipient → [RECIPIENT_nameDef]
+4          RECIPIENT_nameDef → <color=#D09B61FF>Kit</color>
+3        outside_inside → [temperature]
+4          temperature → 但冷得要冻僵了[plants1]
+             plants1 → UNRESOLVABLE
+           temperature → UNRESOLVABLE
+         outside_inside → UNRESOLVABLE
+       good_opinion → UNRESOLVABLE
+     r_logentry → UNRESOLVABLE
+
+
+BARE INCLUDES
+  recipient → [RECIPIENT_nameDef]
+  recipient → [recipient_love]
+  recipient → [recipient_love]
+  recipient → [recipient_love]
+  recipient_love → 甜心
+  recipient_love → 蜜糖
+  recipient_love → 爱
+  recipient_love → 爱宝
+  recipient_love → 小甜甜
+  recipient_love → 心肝
+  recipient_love → 宝贝
+  recipient_love → 宝宝
+  recipient_love → 小可爱
+  recipient_love → 小乖乖
+  recipient_love → 小笨蛋
+  recipient_love → 亲爱的
+  recipient_love → 小傻瓜
+  recipient_love → 意中人
+  recipient_love → 知己
+  recipient → [recipient_sibling]
+  recipient_sibling → [recipient_brother]
+  recipient_brother → 兄弟
+  recipient_sibling → [recipient_sister]
+  recipient_sister → 姐妹
+  recipient → [recipient_parent]
+  recipient_parent → [recipient_father]
+  recipient_father → 父亲
+  recipient_father → 爸爸
+  recipient_parent → [recipient_mother]
+  recipient_mother → 母亲
+  recipient_mother → 妈妈
+  recipient → [recipient_child]
+  recipient_child → 我的孩子
+  recipient_child → 亲爱的
+  recipient_child → [recipient_son]
+  recipient_son → 儿子
+  recipient_son → 我的儿子
+  recipient_child → [recipient_daughter]
+  recipient_daughter → 女儿
+  recipient_daughter → 我的女儿
+  recipient → [RECIPIENT_nameDef]
+  wanna → 想要
+  wanna → 想要
+  wanna → 想要
+  wanna → 想要
+  intensifier → 非常
+  intensifier → 特别
+  intensifier → 非常
+  intensifier → 十分
+  intensifier → 真心
+  intensifier → 非常
+  intensifier → 特别
+  intensifier → 非常
+  intensifier → 十分
+  intensifier → 非常
+  intensifier → 特别
+  intensifier → 超级
+  damned_intensifier → 
+  damned_intensifier → 他妈的
+  damned_intensifier → 狗日的
+  damned_intensifier → 炸裂的
+  damned_intensifier → 混蛋的
+  damned_intensifier → 操蛋的
+  damned_intensifier → 操蛋的
+  damned_intensifier → 该死的
+  damned_intensifier → 狗屁的
+  r_logentry → ...
+  r_logentry → [good_opinion]
+  good_opinion → [i_undergrounder]
+  i_undergrounder → 我不关心外面什么天气，[recipient]...
+  good_opinion → 我希望我能出去看看！
+  good_opinion → 我也觉得，[recipient]。[outside_inside]
+  outside_inside → [temperature]
+  temperature → 今天[timezone]非常热，但还能承受。
+  temperature → 现在是温暖晴朗的[timezone]，太舒服了！
+  temperature → 现在不冷也不热，完美的[timezone]！
+  temperature → 有点冷，但还是一个[nice][timezone]。
+  temperature → 但冷得要冻僵了[plants1]
+  temperature → 但冰冷刺骨呀[plants2]
+  plants1 → ！
+  plants2 → ！
+  plants1 → ，野外的植物难以生长。
+  plants2 → ，野外的植物可能会冻死。
+  timezone → 早上
+  timezone → 下午
+  timezone → 夜晚
+  timezone → 午夜
+  outside_inside → [outside]
+  outside → 能有这么[nice]天气真是太好了！
+  outside → 有这么[nice]的天气大家都能享受！
+  nice → 不错的
+  nice → 美好的
+  nice → 舒服的
+  nice → 绝妙的
+  nice → 美妙的
+  nice → 惬意的
+CONSTANTS
+INITIATOR_faction                      Milira_AngelismChurch
+INITIATOR_flesh                        Normal
+INITIATOR_gender                       Male
+INITIATOR_genderResolved               Male
+INITIATOR_cubeInterest                 False
+RECIPIENT_faction                      Milira_AngelismChurch
+RECIPIENT_flesh                        Normal
+RECIPIENT_gender                       Female
+RECIPIENT_genderResolved               Female
+RECIPIENT_cubeInterest                 False
+
+CUSTOM RULES
+■INITIATOR_nameFull → <color=#D09B61FF>奥雷留斯 弗朗西斯科</color>
+■INITIATOR_label → <color=#D09B61FF>弗朗西斯科</color>
+■INITIATOR_labelNoParenthesis → <color=#D09B61FF>人类</color>
+■INITIATOR_definite → <color=#D09B61FF>弗朗西斯科</color>
+■INITIATOR_nameDef → <color=#D09B61FF>弗朗西斯科</color>
+■INITIATOR_indefinite → <color=#D09B61FF>弗朗西斯科</color>
+■INITIATOR_nameIndef → <color=#D09B61FF>弗朗西斯科</color>
+■INITIATOR_pronoun → 他
+■INITIATOR_possessive → 他的
+■INITIATOR_objective → 他
+■INITIATOR_factionName → <color=#00BFFFFF>天羽教会</color>
+■INITIATOR_kind → 城镇守卫
+■INITIATOR_kindPlural → 城镇守卫
+■INITIATOR_title → 帝国异端审讯官
+■INITIATOR_titleIndef → 帝国异端审讯官
+■INITIATOR_titleDef → 帝国异端审讯官
+■INITIATOR_age → 41
+■INITIATOR_chronologicalAge → 41
+■INITIATOR_relationInfo → 
+■INITIATOR_alienRace → 人类
+■RECIPIENT_nameFull → <color=#D09B61FF>Holly 'Kit' Kettu</color>
+■RECIPIENT_label → <color=#D09B61FF>Kit</color>
+■RECIPIENT_labelNoParenthesis → <color=#D09B61FF>人类</color>
+■RECIPIENT_definite → <color=#D09B61FF>Kit</color>
+■RECIPIENT_nameDef → <color=#D09B61FF>Kit</color>
+■RECIPIENT_indefinite → <color=#D09B61FF>Kit</color>
+■RECIPIENT_nameIndef → <color=#D09B61FF>Kit</color>
+■RECIPIENT_pronoun → 她
+■RECIPIENT_possessive → 她的
+■RECIPIENT_objective → 她
+■RECIPIENT_factionName → <color=#00BFFFFF>天羽教会</color>
+■RECIPIENT_kind → 雇佣枪手
+■RECIPIENT_kindPlural → 雇佣枪手
+■RECIPIENT_title → 隐世天才
+■RECIPIENT_titleIndef → 隐世天才
+■RECIPIENT_titleDef → 隐世天才
+■RECIPIENT_age → 13
+■RECIPIENT_chronologicalAge → 13
+■RECIPIENT_relationInfo → 
+■RECIPIENT_alienRace → 人类
+■INITIATOR_mood → 0.72
+■INITIATOR_thoughtDefName → MoodOffsetPTR02qg
+■INITIATOR_thoughtLabel → 清高
+■INITIATOR_thoughtDefName → ChildLabor_Encouraged_ChildAssignedRecreation
+■INITIATOR_thoughtLabel → 孩子被指派玩乐
+■INITIATOR_thoughtDefName → WearingDesiredApparel_Soft
+■INITIATOR_thoughtLabel → 穿着{APPAREL}
+■INITIATOR_thoughtDefName → Expectations
+■INITIATOR_thoughtLabel → 极低的期望
+■INITIATOR_thoughtText → 「清高」特性带来的心情变化。
+■INITIATOR_opinion → 1
+■INITIATOR_relationship → None
+■INITIATOR_trait → 心灵失聪
+■INITIATOR_trait → 双性恋
+■INITIATOR_trait → <color=#CDCDCD>清高</color>
+■INITIATOR_trait → 直来直去
+■INITIATOR_bestSkill → 智识
+■INITIATOR_worstSkill → 采矿
+■INITIATOR_higherPassion → 格斗
+■INITIATOR_智识_level → 12
+■INITIATOR_智识_passion → Major
+■INITIATOR_社交_level → 10
+■INITIATOR_社交_passion → None
+■INITIATOR_医疗_level → 4
+■INITIATOR_医疗_passion → Minor
+■INITIATOR_艺术_level → 1
+■INITIATOR_艺术_passion → None
+■INITIATOR_手工_level → 1
+■INITIATOR_手工_passion → None
+■INITIATOR_驯兽_level → 0
+■INITIATOR_驯兽_passion → None
+■INITIATOR_种植_level → 2
+■INITIATOR_种植_passion → None
+■INITIATOR_烹饪_level → 0
+■INITIATOR_烹饪_passion → None
+■INITIATOR_采矿_level → 0
+■INITIATOR_采矿_passion → None
+■INITIATOR_建造_level → 2
+■INITIATOR_建造_passion → None
+■INITIATOR_格斗_level → 4
+■INITIATOR_格斗_passion → Major
+■INITIATOR_射击_level → 0
+■INITIATOR_射击_passion → Minor
+■INITIATOR_childhood → 商店的小店主
+■INITIATOR_adulthood → 帝国异端审讯官
+■INITIATOR_moving → 否
+■INITIATOR_jobDefName → Wait_Wander
+■INITIATOR_jobText → 闲逛中。
+■INITIATOR_seated → 否
+■INITIATOR_inventory_item → MealSimple
+■INITIATOR_wearing → 提神 钢铁假面
+■INITIATOR_wearing → 修饰 布风雪大衣
+■INITIATOR_wearing → 舒适 防弹裤
+■INITIATOR_wearing → 布罩衫
+■INITIATOR_needs_tending → 否
+■RECIPIENT_mood → 0.6
+■RECIPIENT_thoughtDefName → ChildLabor_Encouraged_ChildAssignedRecreation
+■RECIPIENT_thoughtLabel → 孩子被指派玩乐
+■RECIPIENT_thoughtDefName → WearingDesiredApparel_Soft
+■RECIPIENT_thoughtLabel → 穿着{APPAREL}
+■RECIPIENT_thoughtDefName → Expectations
+■RECIPIENT_thoughtLabel → 极低的期望
+■RECIPIENT_thoughtText → 能穿着符合信仰的{APPAREL}真好。
+■RECIPIENT_opinion → 1
+■RECIPIENT_relationship → None
+■RECIPIENT_trait → 同性恋
+■RECIPIENT_trait → <color=#33ff00>医生</color>
+■RECIPIENT_trait → <color=#33ff00>杂工</color>
+■RECIPIENT_trait → 聪明过人
+■RECIPIENT_bestSkill → 射击
+■RECIPIENT_worstSkill → 建造
+■RECIPIENT_higherPassion → 射击
+■RECIPIENT_智识_level → 3
+■RECIPIENT_智识_passion → None
+■RECIPIENT_社交_level → 2
+■RECIPIENT_社交_passion → None
+■RECIPIENT_医疗_level → 5
+■RECIPIENT_医疗_passion → Minor
+■RECIPIENT_艺术_level → 2
+■RECIPIENT_艺术_passion → None
+■RECIPIENT_手工_level → 0
+■RECIPIENT_手工_passion → None
+■RECIPIENT_驯兽_level → 1
+■RECIPIENT_驯兽_passion → None
+■RECIPIENT_种植_level → 1
+■RECIPIENT_种植_passion → None
+■RECIPIENT_烹饪_level → 3
+■RECIPIENT_烹饪_passion → Minor
+■RECIPIENT_采矿_level → 3
+■RECIPIENT_采矿_passion → Minor
+■RECIPIENT_建造_level → 0
+■RECIPIENT_建造_passion → None
+■RECIPIENT_格斗_level → 1
+■RECIPIENT_格斗_passion → None
+■RECIPIENT_射击_level → 10
+■RECIPIENT_射击_passion → Major
+■RECIPIENT_childhood → 隐世天才
+■RECIPIENT_moving → 是
+■RECIPIENT_jobDefName → GotoWander
+■RECIPIENT_jobText → 闲逛中。
+■RECIPIENT_seated → 否
+■RECIPIENT_inventory_item → MealSimple
+■RECIPIENT_wearing → 钢铁假面
+■RECIPIENT_wearing → 克雷什布风雪大衣
+■RECIPIENT_wearing → 修饰 布手套
+■RECIPIENT_wearing → 修饰 隐蔽防弹胸挂
+■RECIPIENT_wearing → 防弹裤
+■RECIPIENT_wearing → 克雷什布运动背心
+■RECIPIENT_needs_tending → 否
+■HOUR → 6
+■DAYPERIOD → morning
+■WEATHER → 晴
+■TEMPERATURE → 4.895104
+■OUTDOORS → 是
+■NEAREST_plant → 草
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to resolve text. Trying again with English. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception in SetupToils for pawn Missy driver=IdleJobDriver_WatchDoing (toilIndex=-1) driver.job=(IdleJob_WatchWorking (Job_293402) A = Thing_Milian_Mechanoid_PawnIV29763 Giver = ThinkNode_ColonistIdle [workGiverDef: null])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref CECC06EC]
+ at DSFI.Jobs.IdleJobDriver_WatchDoing+<MakeNewToils>d__1.MoveNext () [0x000f0] in <dc768cdb6979477a9f95924416b1777a>:0 
+ at Verse.AI.JobDriver.SetupToils () [0x00057] in <630e2863bc9a4a3493f2eff01e3a9556>:0 
+     - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+     - POSTFIX Tacticowl: Void Tacticowl.Patch_SetupToils:Postfix(JobDriver __instance) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Opened: Verse.StandardLetter
+Opened: Verse.StandardLetter
+Opened: Verse.StandardLetter
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+MakeThing error: Stone_Cliff_Right is madeFromStuff but stuff=null. Assigning default. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MakeThing error: Stone_Cliff_Right is madeFromStuff but stuff=null. Assigning default. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MakeThing error: Stone_Cliff_Right is madeFromStuff but stuff=null. Assigning default. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MakeThing error: Stone_Cliff_Right is madeFromStuff but stuff=null. Assigning default. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MakeThing error: Stone_Cliff_Right is madeFromStuff but stuff=null. Assigning default. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MakeThing error: Stone_Cliff_Right is madeFromStuff but stuff=null. Assigning default. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MakeThing error: Stone_Cliff_Right is madeFromStuff but stuff=null. Assigning default. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MakeThing error: Stone_Cliff_Right is madeFromStuff but stuff=null. Assigning default. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MakeThing error: Stone_Cliff_Right is madeFromStuff but stuff=null. Assigning default. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MakeThing error: Stone_Cliff_Right is madeFromStuff but stuff=null. Assigning default. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MakeThing error: Stone_Cliff_Right is madeFromStuff but stuff=null. Assigning default. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MakeThing error: Stone_Cliff_Right is madeFromStuff but stuff=null. Assigning default. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MakeThing error: Stone_Cliff_Right is madeFromStuff but stuff=null. Assigning default. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MakeThing error: Stone_Cliff_Right is madeFromStuff but stuff=null. Assigning default. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MakeThing error: Stone_Cliff_Right is madeFromStuff but stuff=null. Assigning default. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MakeThing error: Stone_Cliff_Right is madeFromStuff but stuff=null. Assigning default. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MakeThing error: Stone_Cliff_Right is madeFromStuff but stuff=null. Assigning default. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MakeThing error: Stone_Cliff_Right is madeFromStuff but stuff=null. Assigning default. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MakeThing error: Stone_Cliff_Right is madeFromStuff but stuff=null. Assigning default. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MakeThing error: Stone_Cliff_Right is madeFromStuff but stuff=null. Assigning default. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Opened: Verse.StandardLetter
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+SHBS_DuplexCarbineTurret
+SHBS_DuplexCarbineTurret
+SHBS_DuplexCarbineTurret
+SHBS_DuplexCarbineTurret
+SHBS_ShotgunTurret
+SHBS_DuplexCarbineTurret
+SHBS_ShotgunTurret
+SHBS_HERocketTurret
+Opened: Verse.StandardLetter
+Opened: Verse.StandardLetter
+WorkType HPGMGenerate can be done by mechs, but no mechs are capable
+WorkType Gastronomy_Waiting can be done by mechs, but no mechs are capable
+WorkType Childcare can be done by mechs, but no mechs are capable
+Opened: Verse.StandardLetter
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Opened: Verse.StandardLetter
+AM.Events.AudioEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new AudioEvent. 
+(Filename:  Line: 683)
+
+AM.Events.CamShakeEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new CamShakeEvent. 
+(Filename:  Line: 683)
+
+AM.Events.ClashAudioEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new ClashAudioEvent. 
+(Filename:  Line: 683)
+
+AM.Events.DamageEffectEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new DamageEffectEvent. 
+(Filename:  Line: 683)
+
+AM.Events.DuelEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new DuelEvent. 
+(Filename:  Line: 683)
+
+AM.Events.GoreSplashEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new GoreSplashEvent. 
+(Filename:  Line: 683)
+
+AM.Events.KillPawnEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new KillPawnEvent. 
+(Filename:  Line: 683)
+
+AM.Events.MoteEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new MoteEvent. 
+(Filename:  Line: 683)
+
+AM.Events.PuntPawnEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new PuntPawnEvent. 
+(Filename:  Line: 683)
+
+AM.Events.TextMoteEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new TextMoteEvent. 
+(Filename:  Line: 683)
+
+AM.Events.DamageEffectEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new DamageEffectEvent. 
+(Filename:  Line: 683)
+
+AM.Events.GoreSplashEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new GoreSplashEvent. 
+(Filename:  Line: 683)
+
+AM.Events.KillPawnEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new KillPawnEvent. 
+(Filename:  Line: 683)
+
+Guest group arrived, but there are no guest beds and the player asked to wait until they are built.
+Opened: Verse.StandardLetter
+at < 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+at < 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Geological Landforms v1.7.3] Map generator context: TileId: 11682, Landforms: River & RiverTerrain, BiomeVariants: None, Topology: Inland, TopologyDirection: East (F)
+at < 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+at < 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+at < 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+at < 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+checking editor settings...
+bodysizes genes are active
+日月王庭 are coming after 15.9291 days.
+at < 0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Min possible bio age (11.19273) is greater than max possible bio age (11.0046). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Opened: Verse.StandardLetter
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Exception in SetupToils for pawn Missy driver=IdleJobDriver_WatchDoing (toilIndex=-1) driver.job=(IdleJob_WatchWorking (Job_367962) A = Thing_Milian_Mechanoid_PawnIV29763 Giver = ThinkNode_ColonistIdle [workGiverDef: null])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref CECC06EC]
+ at DSFI.Jobs.IdleJobDriver_WatchDoing+<MakeNewToils>d__1.MoveNext () [0x000f0] in <dc768cdb6979477a9f95924416b1777a>:0 
+ at Verse.AI.JobDriver.SetupToils () [0x00057] in <630e2863bc9a4a3493f2eff01e3a9556>:0 
+     - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+     - POSTFIX Tacticowl: Void Tacticowl.Patch_SetupToils:Postfix(JobDriver __instance) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception in SetupToils for pawn Missy driver=IdleJobDriver_WatchDoing (toilIndex=-1) driver.job=(IdleJob_WatchWorking (Job_369397) A = Thing_Milian_Mechanoid_PawnIV29763 Giver = ThinkNode_ColonistIdle [workGiverDef: null])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref CECC06EC]
+ at DSFI.Jobs.IdleJobDriver_WatchDoing+<MakeNewToils>d__1.MoveNext () [0x000f0] in <dc768cdb6979477a9f95924416b1777a>:0 
+ at Verse.AI.JobDriver.SetupToils () [0x00057] in <630e2863bc9a4a3493f2eff01e3a9556>:0 
+     - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+     - POSTFIX Tacticowl: Void Tacticowl.Patch_SetupToils:Postfix(JobDriver __instance) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Guest group arrived, but there are no guest beds and the player asked to wait until they are built.
+Tried to set 卡斯奥克斯 with gender Female as 潘格拉托斯's father. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error while generating pawn. Rethrowing. Exception: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref DFFDA81F]
+ at RimWorld.PawnRelationWorker_Sibling.CreateRelation (Verse.Pawn generated, Verse.Pawn other, Verse.PawnGenerationRequest& request) [0x000bc] in <630e2863bc9a4a3493f2eff01e3a9556>:0 
+ at Verse.PawnGenerator.GeneratePawnRelations (Verse.Pawn pawn, Verse.PawnGenerationRequest& request) [0x001a8] in <630e2863bc9a4a3493f2eff01e3a9556>:0 
+     - PREFIX OskarPotocki.VFECore: Boolean VanillaGenesExpanded.VanillaGenesExpanded_PawnGenerator_GeneratePawnRelations_Patch:DisableRelations(Pawn pawn)
+     - PREFIX wvc.sergkart.races.biotech: Boolean WVC_XenotypesAndGenes.HarmonyPatches.Patch_PawnGenerator_GeneratePawnRelations:DisablePawnRelations(Pawn pawn)
+     - PREFIX rimworld.erdelf.alien_race.main: Boolean AlienRace.HarmonyPatches:GeneratePawnRelationsPrefix(Pawn pawn, PawnGenerationRequest& request)
+ at Verse.PawnGenerator.TryGenerateNewPawnInternal (Verse.PawnGenerationRequest& request, System.String& error, System.Boolean ignoreScenarioRequirements, System.Boolean ignoreValidator) [0x004ef] in <630e2863bc9a4a3493f2eff01e3a9556>:0 
+     - TRANSPILER rimworld.erdelf.alien_race.main: IEnumerable`1 AlienRace.HarmonyPatches:TryGenerateNewPawnInternalTranspiler(IEnumerable`1 instructions)
+     - PREFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:TryGenerateNewPawnInternalPrefix(PawnGenerationRequest& request)
+ at Verse.PawnGenerator.GenerateNewPawnInternal (Verse.PawnGenerationRequest& request) [0x0009d] in <630e2863bc9a4a3493f2eff01e3a9556>:0 
+     - POSTFIX OskarPotocki.VFECore: Void VFECore.Abilities.PawnGen_Patch:Postfix(Pawn __result)
+     - POSTFIX NAT_Patch: Void NAT.Patch_GenereteRustedPawn:Postfix(Pawn __result)
+ at Verse.PawnGenerator.GenerateOrRedressPawnInternal (Verse.PawnGenerationRequest request) [0x001a7] in <630e2863bc9a4a3493f2eff01e3a9556>:0 
+     - PREFIX WalkerGear: Void WalkerGear.FuckIdeoApparel:FuckingIdeoApparel(PawnGenerationRequest& request)
+     - PREFIX BreadMoFuckIdeoApprelAM: Void BreadMoFuckIdeoApprelAM.FuckIdeoApparel:FuckingIdeoApparel(PawnGenerationRequest& request)
+     - POSTFIX com.Axolotl.rimworld.mod: Void Axolotl.MoeLotlGeneratePawnXenoTypePatch1:Postfix(Pawn& __result, PawnGenerationRequest request)
+ at Verse.PawnGenerator.GeneratePawn (Verse.PawnGenerationRequest request) [0x00031] in <630e2863bc9a4a3493f2eff01e3a9556>:0 
+     - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+     - PREFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:GeneratePawnPrefix(PawnGenerationRequest& request)
+     - POSTFIX MechanoidUpgradesPatch: Void MU.Patch_GenerateUpgradedPawn:Postfix(PawnGenerationRequest request, Pawn& __result)
+     - POSTFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:GeneratePawnPostfix(Pawn __result)
+     - POSTFIX Ancot.MiliraRaceHarmonyPatch: Void Milira.Milira_MilianPawnGenerator_Patch:Postfix(Pawn& __result, PawnGenerationRequest request)
+     - POSTFIX Ancot.MilianModificationPatch: Void MilianModification.Milira_MilianPawnGenerator_Patch:Postfix(Pawn& __result, PawnGenerationRequest request)
+     - POSTFIX AOBA.TheDeadManSwitch: Void DMS.Patch_GeneratePawnTitle:Postfix(Pawn& __result) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception while generating pawn group: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 86C7C95]
+ at RimWorld.PawnRelationWorker_Sibling.CreateRelation (Verse.Pawn generated, Verse.Pawn other, Verse.PawnGenerationRequest& request) [0x000bc] in <630e2863bc9a4a3493f2eff01e3a9556>:0 
+ at Verse.PawnGenerator.GeneratePawnRelations (Verse.Pawn pawn, Verse.PawnGenerationRequest& request) [0x001a8] in <630e2863bc9a4a3493f2eff01e3a9556>:0 
+     - PREFIX OskarPotocki.VFECore: Boolean VanillaGenesExpanded.VanillaGenesExpanded_PawnGenerator_GeneratePawnRelations_Patch:DisableRelations(Pawn pawn)
+     - PREFIX wvc.sergkart.races.biotech: Boolean WVC_XenotypesAndGenes.HarmonyPatches.Patch_PawnGenerator_GeneratePawnRelations:DisablePawnRelations(Pawn pawn)
+     - PREFIX rimworld.erdelf.alien_race.main: Boolean AlienRace.HarmonyPatches:GeneratePawnRelationsPrefix(Pawn pawn, PawnGenerationRequest& request)
+ at Verse.PawnGenerator.TryGenerateNewPawnInternal (Verse.PawnGenerationRequest& request, System.String& error, System.Boolean ignoreScenarioRequirements, System.Boolean ignoreValidator) [0x004ef] in <630e2863bc9a4a3493f2eff01e3a9556>:0 
+     - TRANSPILER rimworld.erdelf.alien_race.main: IEnumerable`1 AlienRace.HarmonyPatches:TryGenerateNewPawnInternalTranspiler(IEnumerable`1 instructions)
+     - PREFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:TryGenerateNewPawnInternalPrefix(PawnGenerationRequest& request)
+ at Verse.PawnGenerator.GenerateNewPawnInternal (Verse.PawnGenerationRequest& request) [0x0009d] in <630e2863bc9a4a3493f2eff01e3a9556>:0 
+     - POSTFIX OskarPotocki.VFECore: Void VFECore.Abilities.PawnGen_Patch:Postfix(Pawn __result)
+     - POSTFIX NAT_Patch: Void NAT.Patch_GenereteRustedPawn:Postfix(Pawn __result)
+ at Verse.PawnGenerator.GenerateOrRedressPawnInternal (Verse.PawnGenerationRequest request) [0x001a7] in <630e2863bc9a4a3493f2eff01e3a9556>:0 
+     - PREFIX WalkerGear: Void WalkerGear.FuckIdeoApparel:FuckingIdeoApparel(PawnGenerationRequest& request)
+     - PREFIX BreadMoFuckIdeoApprelAM: Void BreadMoFuckIdeoApprelAM.FuckIdeoApparel:FuckingIdeoApparel(PawnGenerationRequest& request)
+     - POSTFIX com.Axolotl.rimworld.mod: Void Axolotl.MoeLotlGeneratePawnXenoTypePatch1:Postfix(Pawn& __result, PawnGenerationRequest request)
+ at Verse.PawnGenerator.GeneratePawn (Verse.PawnGenerationRequest request) [0x001c6] in <630e2863bc9a4a3493f2eff01e3a9556>:0 
+     - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+     - PREFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:GeneratePawnPrefix(PawnGenerationRequest& request)
+     - POSTFIX MechanoidUpgradesPatch: Void MU.Patch_GenerateUpgradedPawn:Postfix(PawnGenerationRequest request, Pawn& __result)
+     - POSTFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:GeneratePawnPostfix(Pawn __result)
+     - POSTFIX Ancot.MiliraRaceHarmonyPatch: Void Milira.Milira_MilianPawnGenerator_Patch:Postfix(Pawn& __result, PawnGenerationRequest request)
+     - POSTFIX Ancot.MilianModificationPatch: Void MilianModification.Milira_MilianPawnGenerator_Patch:Postfix(Pawn& __result, PawnGenerationRequest request)
+     - POSTFIX AOBA.TheDeadManSwitch: Void DMS.Patch_GeneratePawnTitle:Postfix(Pawn& __result)
+ at RimWorld.PawnGroupKindWorker_Normal.GeneratePawns (RimWorld.PawnGroupMakerParms parms, RimWorld.PawnGroupMaker groupMaker, System.Collections.Generic.List`1[T] outPawns, System.Boolean errorOnZeroResults) [0x002a5] in <630e2863bc9a4a3493f2eff01e3a9556>:0 
+ at RimWorld.PawnGroupKindWorker.GeneratePawns (RimWorld.PawnGroupMakerParms parms, RimWorld.PawnGroupMaker groupMaker, System.Boolean errorOnZeroResults) [0x00011] in <630e2863bc9a4a3493f2eff01e3a9556>:0 
+     - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Setting up 10 worker threads for Enlighten.
+  Thread -> id: 4474 -> priority: 1 
+  Thread -> id: 200c -> priority: 1 
+  Thread -> id: 4e18 -> priority: 1 
+  Thread -> id: 4954 -> priority: 1 
+  Thread -> id: 2564 -> priority: 1 
+  Thread -> id: 4c64 -> priority: 1 
+  Thread -> id: 5204 -> priority: 1 
+  Thread -> id: 5060 -> priority: 1 
+  Thread -> id: 20ac -> priority: 1 
+  Thread -> id: 49f0 -> priority: 1 
